@@ -1,0 +1,2325 @@
+word,syllables,syllable_count,last_syllable,stressed_syllable_idx,stressed_syllable,first_letter,start_with_vowel,last_letter,end_with_vowel
+abaixo,"['a', 'bai', 'xo']",3,xo,2,bai,a,True,o,True
+aberta,"['a', 'ber', 'ta']",3,ta,2,ber,a,True,a,True
+aberto,"['a', 'ber', 'to']",3,to,2,ber,a,True,o,True
+abismo,"['a', 'bis', 'mo']",3,mo,2,bis,a,True,o,True
+aborrecido,"['a', 'bor', 're', 'ci', 'do']",5,do,2,ci,a,True,o,True
+abre,"['a', 'bre']",2,bre,2,a,a,True,e,True
+abril,"['a', 'bril']",2,bril,1,bril,a,True,l,False
+abrindo,"['a', 'brin', 'do']",3,do,2,brin,a,True,o,True
+abrir,"['a', 'brir']",2,brir,1,brir,a,True,r,False
+abriu,"['a', 'bri', 'u']",3,u,2,bri,a,True,u,True
+absolutamente,"['ab', 'so', 'lu', 'ta', 'men', 'te']",6,te,2,men,a,True,e,True
+acaba,"['a', 'ca', 'ba']",3,ba,2,ca,a,True,a,True
+acabado,"['a', 'ca', 'ba', 'do']",4,do,2,ba,a,True,o,True
+acabar,"['a', 'ca', 'bar']",3,bar,1,bar,a,True,r,False
+acabava,"['a', 'ca', 'ba', 'va']",4,va,2,ba,a,True,a,True
+acabou,"['a', 'ca', 'bou']",3,bou,1,bou,a,True,u,True
+academia,"['a', 'ca', 'de', 'mi', 'a']",5,a,2,mi,a,True,a,True
+acaso,"['a', 'ca', 'so']",3,so,2,ca,a,True,o,True
+aceita,"['a', 'cei', 'ta']",3,ta,2,cei,a,True,a,True
+aceitar,"['a', 'cei', 'tar']",3,tar,1,tar,a,True,r,False
+aceito,"['a', 'cei', 'to']",3,to,2,cei,a,True,o,True
+aceitou,"['a', 'cei', 'tou']",3,tou,1,tou,a,True,u,True
+acerca,"['a', 'cer', 'ca']",3,ca,2,cer,a,True,a,True
+acha,"['a', 'cha']",2,cha,2,a,a,True,a,True
+achado,"['a', 'cha', 'do']",3,do,2,cha,a,True,o,True
+achar,"['a', 'char']",2,char,1,char,a,True,r,False
+achava,"['a', 'cha', 'va']",3,va,2,cha,a,True,a,True
+achei,"['a', 'chei']",2,chei,1,chei,a,True,i,True
+acho,"['a', 'cho']",2,cho,2,a,a,True,o,True
+achou,"['a', 'chou']",2,chou,1,chou,a,True,u,True
+acima,"['a', 'ci', 'ma']",3,ma,2,ci,a,True,a,True
+acompanhar,"['a', 'com', 'pa', 'nhar']",4,nhar,1,nhar,a,True,r,False
+acontece,"['a', 'con', 'te', 'ce']",4,ce,2,te,a,True,e,True
+acontecer,"['a', 'con', 'te', 'cer']",4,cer,1,cer,a,True,r,False
+aconteceu,"['a', 'con', 'te', 'ceu']",4,ceu,1,ceu,a,True,u,True
+acontecimento,"['a', 'con', 'te', 'ci', 'men', 'to']",6,to,2,men,a,True,o,True
+acontecimentos,"['a', 'con', 'te', 'ci', 'men', 'tos']",6,tos,2,men,a,True,s,False
+acordo,"['a', 'cor', 'do']",3,do,2,cor,a,True,o,True
+acordou,"['a', 'cor', 'dou']",3,dou,1,dou,a,True,u,True
+acrescentou,"['a', 'cres', 'cen', 'tou']",4,tou,1,tou,a,True,u,True
+acudiu,"['a', 'cu', 'di', 'u']",4,u,2,di,a,True,u,True
+adelaide,"['a', 'de', 'lai', 'de']",4,de,2,lai,a,True,e,True
+adeus,"['a', 'deus']",2,deus,1,deus,a,True,s,False
+adiante,"['a', 'di', 'an', 'te']",4,te,2,an,a,True,e,True
+admira,"['ad', 'mi', 'ra']",3,ra,2,mi,a,True,a,True
+admiração,"['ad', 'mi', 'ra', 'ção']",4,ção,1,ção,a,True,o,True
+advogado,"['ad', 'vo', 'ga', 'do']",4,do,2,ga,a,True,o,True
+afeição,"['a', 'fei', 'ção']",3,ção,1,ção,a,True,o,True
+afeto,"['a', 'fe', 'to']",3,to,2,fe,a,True,o,True
+afinal,"['a', 'fi', 'nal']",3,nal,1,nal,a,True,l,False
+agitação,"['a', 'gi', 'ta', 'ção']",4,ção,1,ção,a,True,o,True
+agora,"['a', 'go', 'ra']",3,ra,2,go,a,True,a,True
+agosto,"['a', 'gos', 'to']",3,to,2,gos,a,True,o,True
+agradável,"['a', 'gra', 'dá', 'vel']",4,vel,2,dá,a,True,l,False
+aguiar,"['a', 'gui', 'ar']",3,ar,1,ar,a,True,r,False
+aguilar,"['a', 'gui', 'lar']",3,lar,1,lar,a,True,r,False
+ah,['ah'],1,ah,1,ah,a,True,h,False
+ai,['ai'],1,ai,1,ai,a,True,i,True
+ainda,"['a', 'in', 'da']",3,da,2,in,a,True,a,True
+aires,"['ai', 'res']",2,res,2,ai,a,True,s,False
+alberto,"['al', 'ber', 'to']",3,to,2,ber,a,True,o,True
+alcova,"['al', 'co', 'va']",3,va,2,co,a,True,a,True
+alegre,"['a', 'le', 'gre']",3,gre,2,le,a,True,e,True
+alegres,"['a', 'le', 'gres']",3,gres,2,le,a,True,s,False
+alegria,"['a', 'le', 'gri', 'a']",4,a,2,gri,a,True,a,True
+alencar,"['a', 'len', 'car']",3,car,1,car,a,True,r,False
+alfredo,"['al', 'fre', 'do']",3,do,2,fre,a,True,o,True
+algibeira,"['al', 'gi', 'bei', 'ra']",4,ra,2,bei,a,True,a,True
+algum,"['al', 'gum']",2,gum,1,gum,a,True,m,False
+alguma,"['al', 'gu', 'ma']",3,ma,2,gu,a,True,a,True
+algumas,"['al', 'gu', 'mas']",3,mas,2,gu,a,True,s,False
+alguns,"['al', 'guns']",2,guns,1,guns,a,True,s,False
+alguém,"['al', 'gu', 'ém']",3,ém,1,ém,a,True,m,False
+ali,"['a', 'li']",2,li,1,li,a,True,i,True
+alienista,"['a', 'li', 'e', 'nis', 'ta']",5,ta,2,nis,a,True,a,True
+aliás,"['a', 'li', 'ás']",3,ás,1,ás,a,True,s,False
+alma,"['al', 'ma']",2,ma,2,al,a,True,a,True
+almas,"['al', 'mas']",2,mas,2,al,a,True,s,False
+almoçar,"['al', 'mo', 'çar']",3,çar,1,çar,a,True,r,False
+almoço,"['al', 'mo', 'ço']",3,ço,2,mo,a,True,o,True
+alta,"['al', 'ta']",2,ta,2,al,a,True,a,True
+alto,"['al', 'to']",2,to,2,al,a,True,o,True
+altura,"['al', 'tu', 'ra']",3,ra,2,tu,a,True,a,True
+alvarez,"['al', 'va', 'rez']",3,rez,1,rez,a,True,z,False
+alves,"['al', 'ves']",2,ves,2,al,a,True,s,False
+além,"['a', 'lém']",2,lém,1,lém,a,True,m,False
+ama,"['a', 'ma']",2,ma,2,a,a,True,a,True
+amada,"['a', 'ma', 'da']",3,da,2,ma,a,True,a,True
+amado,"['a', 'ma', 'do']",3,do,2,ma,a,True,o,True
+amanhã,"['a', 'ma', 'nhã']",3,nhã,1,nhã,a,True,ã,True
+amante,"['a', 'man', 'te']",3,te,2,man,a,True,e,True
+amar,"['a', 'mar']",2,mar,1,mar,a,True,r,False
+amava,"['a', 'ma', 'va']",3,va,2,ma,a,True,a,True
+ambas,"['am', 'bas']",2,bas,2,am,a,True,s,False
+ambição,"['am', 'bi', 'ção']",3,ção,1,ção,a,True,o,True
+ambos,"['am', 'bos']",2,bos,2,am,a,True,s,False
+amiga,"['a', 'mi', 'ga']",3,ga,2,mi,a,True,a,True
+amigas,"['a', 'mi', 'gas']",3,gas,2,mi,a,True,s,False
+amigo,"['a', 'mi', 'go']",3,go,2,mi,a,True,o,True
+amigos,"['a', 'mi', 'gos']",3,gos,2,mi,a,True,s,False
+amizade,"['a', 'mi', 'za', 'de']",4,de,2,za,a,True,e,True
+amo,"['a', 'mo']",2,mo,2,a,a,True,o,True
+amor,"['a', 'mor']",2,mor,1,mor,a,True,r,False
+amores,"['a', 'mo', 'res']",3,res,2,mo,a,True,s,False
+amélia,"['a', 'mé', 'li', 'a']",4,a,3,mé,a,True,a,True
+anda,"['an', 'da']",2,da,2,an,a,True,a,True
+andam,"['an', 'dam']",2,dam,2,an,a,True,m,False
+andando,"['an', 'dan', 'do']",3,do,2,dan,a,True,o,True
+andar,"['an', 'dar']",2,dar,1,dar,a,True,r,False
+andava,"['an', 'da', 'va']",3,va,2,da,a,True,a,True
+andrade,"['an', 'dra', 'de']",3,de,2,dra,a,True,e,True
+andré,"['an', 'dré']",2,dré,1,dré,a,True,é,True
+angélica,"['an', 'gé', 'li', 'ca']",4,ca,3,gé,a,True,a,True
+animais,"['a', 'ni', 'ma', 'is']",4,is,2,ma,a,True,s,False
+animal,"['a', 'ni', 'mal']",3,mal,1,mal,a,True,l,False
+anjo,"['an', 'jo']",2,jo,2,an,a,True,o,True
+anjos,"['an', 'jos']",2,jos,2,an,a,True,s,False
+ano,"['a', 'no']",2,no,2,a,a,True,o,True
+anos,"['a', 'nos']",2,nos,2,a,a,True,s,False
+ante,"['an', 'te']",2,te,2,an,a,True,e,True
+anterior,"['an', 'te', 'ri', 'or']",4,or,1,or,a,True,r,False
+antes,"['an', 'tes']",2,tes,2,an,a,True,s,False
+antiga,"['an', 'ti', 'ga']",3,ga,2,ti,a,True,a,True
+antigas,"['an', 'ti', 'gas']",3,gas,2,ti,a,True,s,False
+antigo,"['an', 'ti', 'go']",3,go,2,ti,a,True,o,True
+antigos,"['an', 'ti', 'gos']",3,gos,2,ti,a,True,s,False
+antônia,"['an', 'tô', 'ni', 'a']",4,a,3,tô,a,True,a,True
+antônio,"['an', 'tô', 'ni', 'o']",4,o,3,tô,a,True,o,True
+ao,['ao'],1,ao,1,ao,a,True,o,True
+aonde,"['aon', 'de']",2,de,2,aon,a,True,e,True
+aos,['aos'],1,aos,1,aos,a,True,s,False
+aparece,"['a', 'pa', 're', 'ce']",4,ce,2,re,a,True,e,True
+aparecer,"['a', 'pa', 're', 'cer']",4,cer,1,cer,a,True,r,False
+apareceu,"['a', 'pa', 're', 'ceu']",4,ceu,1,ceu,a,True,u,True
+aparecia,"['a', 'pa', 're', 'ci', 'a']",5,a,2,ci,a,True,a,True
+apenas,"['a', 'pe', 'nas']",3,nas,2,pe,a,True,s,False
+apesar,"['a', 'pe', 'sar']",3,sar,1,sar,a,True,r,False
+aplausos,"['a', 'plau', 'sos']",3,sos,2,plau,a,True,s,False
+após,"['a', 'pós']",2,pós,1,pós,a,True,s,False
+aquela,"['a', 'que', 'la']",3,la,2,que,a,True,a,True
+aquelas,"['a', 'que', 'las']",3,las,2,que,a,True,s,False
+aquele,"['a', 'que', 'le']",3,le,2,que,a,True,e,True
+aqueles,"['a', 'que', 'les']",3,les,2,que,a,True,s,False
+aqui,"['a', 'qui']",2,qui,1,qui,a,True,i,True
+aquilo,"['a', 'qui', 'lo']",3,lo,2,qui,a,True,o,True
+ar,['ar'],1,ar,1,ar,a,True,r,False
+ardente,"['ar', 'den', 'te']",3,te,2,den,a,True,e,True
+ardor,"['ar', 'dor']",2,dor,1,dor,a,True,r,False
+ares,"['a', 'res']",2,res,2,a,a,True,s,False
+armas,"['ar', 'mas']",2,mas,2,ar,a,True,s,False
+arte,"['ar', 'te']",2,te,2,ar,a,True,e,True
+artigo,"['ar', 'ti', 'go']",3,go,2,ti,a,True,o,True
+artigos,"['ar', 'ti', 'gos']",3,gos,2,ti,a,True,s,False
+artista,"['ar', 'tis', 'ta']",3,ta,2,tis,a,True,a,True
+artistas,"['ar', 'tis', 'tas']",3,tas,2,tis,a,True,s,False
+as,['as'],1,as,1,as,a,True,s,False
+asas,"['a', 'sas']",2,sas,2,a,a,True,s,False
+aspecto,"['as', 'pec', 'to']",3,to,2,pec,a,True,o,True
+assaz,"['as', 'saz']",2,saz,1,saz,a,True,z,False
+assembléia,"['as', 'sem', 'bléi', 'a']",4,a,2,bléi,a,True,a,True
+assim,"['as', 'sim']",2,sim,1,sim,a,True,m,False
+assis,"['as', 'sis']",2,sis,1,sis,a,True,s,False
+assistir,"['as', 'sis', 'tir']",3,tir,1,tir,a,True,r,False
+assunto,"['as', 'sun', 'to']",3,to,2,sun,a,True,o,True
+atenção,"['a', 'ten', 'ção']",3,ção,1,ção,a,True,o,True
+ato,"['a', 'to']",2,to,2,a,a,True,o,True
+atos,"['a', 'tos']",2,tos,2,a,a,True,s,False
+através,"['a', 'tra', 'vés']",3,vés,1,vés,a,True,s,False
+atrás,"['a', 'trás']",2,trás,1,trás,a,True,s,False
+atual,"['a', 'tual']",2,tual,1,tual,a,True,l,False
+até,"['a', 'té']",2,té,1,té,a,True,é,True
+augusta,"['au', 'gus', 'ta']",3,ta,2,gus,a,True,a,True
+augusto,"['au', 'gus', 'to']",3,to,2,gus,a,True,o,True
+aurora,"['au', 'ro', 'ra']",3,ra,2,ro,a,True,a,True
+ausência,"['au', 'sên', 'ci', 'a']",4,a,3,sên,a,True,a,True
+autor,"['au', 'tor']",2,tor,1,tor,a,True,r,False
+autores,"['au', 'to', 'res']",3,res,2,to,a,True,s,False
+autoridade,"['au', 'to', 'ri', 'da', 'de']",5,de,2,da,a,True,e,True
+aventura,"['a', 'ven', 'tu', 'ra']",4,ra,2,tu,a,True,a,True
+azevedo,"['a', 'ze', 've', 'do']",4,do,2,ve,a,True,o,True
+azul,"['a', 'zul']",2,zul,1,zul,a,True,l,False
+ação,"['a', 'ção']",2,ção,1,ção,a,True,o,True
+ações,"['a', 'ções']",2,ções,1,ções,a,True,s,False
+aí,"['a', 'í']",2,í,1,í,a,True,í,True
+bacharel,"['ba', 'cha', 'rel']",3,rel,1,rel,b,False,l,False
+bahia,"['ba', 'hi', 'a']",3,a,2,hi,b,False,a,True
+baile,"['bai', 'le']",2,le,2,bai,b,False,e,True
+baixa,"['bai', 'xa']",2,xa,2,bai,b,False,a,True
+baixo,"['bai', 'xo']",2,xo,2,bai,b,False,o,True
+banco,"['ban', 'co']",2,co,2,ban,b,False,o,True
+barbeiro,"['bar', 'bei', 'ro']",3,ro,2,bei,b,False,o,True
+barbosa,"['bar', 'bo', 'sa']",3,sa,2,bo,b,False,a,True
+baronesa,"['ba', 'ro', 'ne', 'sa']",4,sa,2,ne,b,False,a,True
+barão,"['ba', 'rão']",2,rão,1,rão,b,False,o,True
+basta,"['bas', 'ta']",2,ta,2,bas,b,False,a,True
+bastante,"['bas', 'tan', 'te']",3,te,2,tan,b,False,e,True
+bastava,"['bas', 'ta', 'va']",3,va,2,ta,b,False,a,True
+batalha,"['ba', 'ta', 'lha']",3,lha,2,ta,b,False,a,True
+bater,"['ba', 'ter']",2,ter,1,ter,b,False,r,False
+bateu,"['ba', 'teu']",2,teu,1,teu,b,False,u,True
+batia,"['ba', 'ti', 'a']",3,a,2,ti,b,False,a,True
+batista,"['ba', 'tis', 'ta']",3,ta,2,tis,b,False,a,True
+beatriz,"['be', 'a', 'triz']",3,triz,1,triz,b,False,z,False
+beijo,"['bei', 'jo']",2,jo,2,bei,b,False,o,True
+beijos,"['bei', 'jos']",2,jos,2,bei,b,False,s,False
+bela,"['be', 'la']",2,la,2,be,b,False,a,True
+belas,"['be', 'las']",2,las,2,be,b,False,s,False
+beleza,"['be', 'le', 'za']",3,za,2,le,b,False,a,True
+belo,"['be', 'lo']",2,lo,2,be,b,False,o,True
+belos,"['be', 'los']",2,los,2,be,b,False,s,False
+bem,['bem'],1,bem,1,bem,b,False,m,False
+benedita,"['be', 'ne', 'di', 'ta']",4,ta,2,di,b,False,a,True
+benefício,"['be', 'ne', 'fí', 'ci', 'o']",5,o,3,fí,b,False,o,True
+bengala,"['ben', 'ga', 'la']",3,la,2,ga,b,False,a,True
+bento,"['ben', 'to']",2,to,2,ben,b,False,o,True
+bilhete,"['bi', 'lhe', 'te']",3,te,2,lhe,b,False,e,True
+bilhetes,"['bi', 'lhe', 'tes']",3,tes,2,lhe,b,False,s,False
+boa,['boa'],1,boa,1,boa,b,False,a,True
+boas,['boas'],1,boas,1,boas,b,False,s,False
+boca,"['bo', 'ca']",2,ca,2,bo,b,False,a,True
+bolso,"['bol', 'so']",2,so,2,bol,b,False,o,True
+bom,['bom'],1,bom,1,bom,b,False,m,False
+bond,['bond'],1,bond,1,bond,b,False,d,False
+bonita,"['bo', 'ni', 'ta']",3,ta,2,ni,b,False,a,True
+bonitas,"['bo', 'ni', 'tas']",3,tas,2,ni,b,False,s,False
+bonito,"['bo', 'ni', 'to']",3,to,2,ni,b,False,o,True
+bons,['bons'],1,bons,1,bons,b,False,s,False
+borba,"['bor', 'ba']",2,ba,2,bor,b,False,a,True
+borges,"['bor', 'ges']",2,ges,2,bor,b,False,s,False
+bota,"['bo', 'ta']",2,ta,2,bo,b,False,a,True
+botafogo,"['bo', 'ta', 'fo', 'go']",4,go,2,fo,b,False,o,True
+botas,"['bo', 'tas']",2,tas,2,bo,b,False,s,False
+branca,"['bran', 'ca']",2,ca,2,bran,b,False,a,True
+branco,"['bran', 'co']",2,co,2,bran,b,False,o,True
+brasil,"['bra', 'sil']",2,sil,1,sil,b,False,l,False
+brasileira,"['bra', 'si', 'lei', 'ra']",4,ra,2,lei,b,False,a,True
+brasileiro,"['bra', 'si', 'lei', 'ro']",4,ro,2,lei,b,False,o,True
+braço,"['bra', 'ço']",2,ço,2,bra,b,False,o,True
+braços,"['bra', 'ços']",2,ços,2,bra,b,False,s,False
+breve,"['bre', 've']",2,ve,2,bre,b,False,e,True
+brilhante,"['bri', 'lhan', 'te']",3,te,2,lhan,b,False,e,True
+bumble,"['bum', 'ble']",2,ble,2,bum,b,False,e,True
+busca,"['bus', 'ca']",2,ca,2,bus,b,False,a,True
+buscar,"['bus', 'car']",2,car,1,car,b,False,r,False
+cabe,"['ca', 'be']",2,be,2,ca,c,False,e,True
+cabelos,"['ca', 'be', 'los']",3,los,2,be,c,False,s,False
+cabeça,"['ca', 'be', 'ça']",3,ça,2,be,c,False,a,True
+cabo,"['ca', 'bo']",2,bo,2,ca,c,False,o,True
+cada,"['ca', 'da']",2,da,2,ca,c,False,a,True
+cadeira,"['ca', 'dei', 'ra']",3,ra,2,dei,c,False,a,True
+cadeiras,"['ca', 'dei', 'ras']",3,ras,2,dei,c,False,s,False
+cadáver,"['ca', 'dá', 'ver']",3,ver,2,dá,c,False,r,False
+café,"['ca', 'fé']",2,fé,1,fé,c,False,é,True
+cai,['cai'],1,cai,1,cai,c,False,i,True
+cair,"['ca', 'ir']",2,ir,1,ir,c,False,r,False
+caiu,"['ca', 'iu']",2,iu,1,iu,c,False,u,True
+caixa,"['cai', 'xa']",2,xa,2,cai,c,False,a,True
+calado,"['ca', 'la', 'do']",3,do,2,la,c,False,o,True
+calor,"['ca', 'lor']",2,lor,1,lor,c,False,r,False
+calças,"['cal', 'ças']",2,ças,2,cal,c,False,s,False
+cama,"['ca', 'ma']",2,ma,2,ca,c,False,a,True
+camargo,"['ca', 'mar', 'go']",3,go,2,mar,c,False,o,True
+camila,"['ca', 'mi', 'la']",3,la,2,mi,c,False,a,True
+camilo,"['ca', 'mi', 'lo']",3,lo,2,mi,c,False,o,True
+caminha,"['ca', 'mi', 'nha']",3,nha,2,mi,c,False,a,True
+caminho,"['ca', 'mi', 'nho']",3,nho,2,mi,c,False,o,True
+campo,"['cam', 'po']",2,po,2,cam,c,False,o,True
+campos,"['cam', 'pos']",2,pos,2,cam,c,False,s,False
+camões,"['ca', 'mões']",2,mões,1,mões,c,False,s,False
+candidato,"['can', 'di', 'da', 'to']",4,to,2,da,c,False,o,True
+cansado,"['can', 'sa', 'do']",3,do,2,sa,c,False,o,True
+canto,"['can', 'to']",2,to,2,can,c,False,o,True
+cantos,"['can', 'tos']",2,tos,2,can,c,False,s,False
+capaz,"['ca', 'paz']",2,paz,1,paz,c,False,z,False
+capital,"['ca', 'pi', 'tal']",3,tal,1,tal,c,False,l,False
+capitu,"['ca', 'pi', 'tu']",3,tu,1,tu,c,False,u,True
+capitão,"['ca', 'pi', 'tão']",3,tão,1,tão,c,False,o,True
+capricho,"['ca', 'pri', 'cho']",3,cho,2,pri,c,False,o,True
+capítulo,"['ca', 'pí', 'tu', 'lo']",4,lo,3,pí,c,False,o,True
+cara,"['ca', 'ra']",2,ra,2,ca,c,False,a,True
+caracteres,"['ca', 'rac', 'te', 'res']",4,res,2,te,c,False,s,False
+cargo,"['car', 'go']",2,go,2,car,c,False,o,True
+caridade,"['ca', 'ri', 'da', 'de']",4,de,2,da,c,False,e,True
+carlos,"['car', 'los']",2,los,2,car,c,False,s,False
+carlota,"['car', 'lo', 'ta']",3,ta,2,lo,c,False,a,True
+carmo,"['car', 'mo']",2,mo,2,car,c,False,o,True
+carne,"['car', 'ne']",2,ne,2,car,c,False,e,True
+caro,"['ca', 'ro']",2,ro,2,ca,c,False,o,True
+carreira,"['car', 'rei', 'ra']",3,ra,2,rei,c,False,a,True
+carro,"['car', 'ro']",2,ro,2,car,c,False,o,True
+carta,"['car', 'ta']",2,ta,2,car,c,False,a,True
+cartas,"['car', 'tas']",2,tas,2,car,c,False,s,False
+caráter,"['ca', 'rá', 'ter']",3,ter,2,rá,c,False,r,False
+casa,"['ca', 'sa']",2,sa,2,ca,c,False,a,True
+casaca,"['ca', 'sa', 'ca']",3,ca,2,sa,c,False,a,True
+casada,"['ca', 'sa', 'da']",3,da,2,sa,c,False,a,True
+casado,"['ca', 'sa', 'do']",3,do,2,sa,c,False,o,True
+casal,"['ca', 'sal']",2,sal,1,sal,c,False,l,False
+casamento,"['ca', 'sa', 'men', 'to']",4,to,2,men,c,False,o,True
+casar,"['ca', 'sar']",2,sar,1,sar,c,False,r,False
+casas,"['ca', 'sas']",2,sas,2,ca,c,False,s,False
+caso,"['ca', 'so']",2,so,2,ca,c,False,o,True
+casos,"['ca', 'sos']",2,sos,2,ca,c,False,s,False
+casou,"['ca', 'sou']",2,sou,1,sou,c,False,u,True
+castelo,"['cas', 'te', 'lo']",3,lo,2,te,c,False,o,True
+catarina,"['ca', 'ta', 'ri', 'na']",4,na,2,ri,c,False,a,True
+causa,"['cau', 'sa']",2,sa,2,cau,c,False,a,True
+causas,"['cau', 'sas']",2,sas,2,cau,c,False,s,False
+cavalcante,"['ca', 'val', 'can', 'te']",4,te,2,can,c,False,e,True
+cavalo,"['ca', 'va', 'lo']",3,lo,2,va,c,False,o,True
+cavalos,"['ca', 'va', 'los']",3,los,2,va,c,False,s,False
+cecília,"['ce', 'cí', 'li', 'a']",4,a,3,cí,c,False,a,True
+cedo,"['ce', 'do']",2,do,2,ce,c,False,o,True
+cem,['cem'],1,cem,1,cem,c,False,m,False
+cemitério,"['ce', 'mi', 'té', 'ri', 'o']",5,o,3,té,c,False,o,True
+cena,"['ce', 'na']",2,na,2,ce,c,False,a,True
+cenas,"['ce', 'nas']",2,nas,2,ce,c,False,s,False
+censura,"['cen', 'su', 'ra']",3,ra,2,su,c,False,a,True
+centro,"['cen', 'tro']",2,tro,2,cen,c,False,o,True
+cerca,"['cer', 'ca']",2,ca,2,cer,c,False,a,True
+certa,"['cer', 'ta']",2,ta,2,cer,c,False,a,True
+certamente,"['cer', 'ta', 'men', 'te']",4,te,2,men,c,False,e,True
+certas,"['cer', 'tas']",2,tas,2,cer,c,False,s,False
+certeza,"['cer', 'te', 'za']",3,za,2,te,c,False,a,True
+certo,"['cer', 'to']",2,to,2,cer,c,False,o,True
+certos,"['cer', 'tos']",2,tos,2,cer,c,False,s,False
+chama,"['cha', 'ma']",2,ma,2,cha,c,False,a,True
+chamado,"['cha', 'ma', 'do']",3,do,2,ma,c,False,o,True
+chamar,"['cha', 'mar']",2,mar,1,mar,c,False,r,False
+chamava,"['cha', 'ma', 'va']",3,va,2,ma,c,False,a,True
+chamou,"['cha', 'mou']",2,mou,1,mou,c,False,u,True
+chapéu,"['cha', 'péu']",2,péu,1,péu,c,False,u,True
+charuto,"['cha', 'ru', 'to']",3,to,2,ru,c,False,o,True
+chave,"['cha', 've']",2,ve,2,cha,c,False,e,True
+chefe,"['che', 'fe']",2,fe,2,che,c,False,e,True
+chega,"['che', 'ga']",2,ga,2,che,c,False,a,True
+chegada,"['che', 'ga', 'da']",3,da,2,ga,c,False,a,True
+chegando,"['che', 'gan', 'do']",3,do,2,gan,c,False,o,True
+chegar,"['che', 'gar']",2,gar,1,gar,c,False,r,False
+chegara,"['che', 'ga', 'ra']",3,ra,2,ga,c,False,a,True
+chegaram,"['che', 'ga', 'ram']",3,ram,2,ga,c,False,m,False
+chegava,"['che', 'ga', 'va']",3,va,2,ga,c,False,a,True
+chegou,"['che', 'gou']",2,gou,1,gou,c,False,u,True
+cheguei,"['che', 'guei']",2,guei,1,guei,c,False,i,True
+cheia,"['chei', 'a']",2,a,2,chei,c,False,a,True
+cheio,"['chei', 'o']",2,o,2,chei,c,False,o,True
+chorar,"['cho', 'rar']",2,rar,1,rar,c,False,r,False
+chuva,"['chu', 'va']",2,va,2,chu,c,False,a,True
+chá,['chá'],1,chá,1,chá,c,False,á,True
+chácara,"['chá', 'ca', 'ra']",3,ra,3,chá,c,False,a,True
+chão,['chão'],1,chão,1,chão,c,False,o,True
+cidade,"['ci', 'da', 'de']",3,de,2,da,c,False,e,True
+cidadão,"['ci', 'da', 'dão']",3,dão,1,dão,c,False,o,True
+cima,"['ci', 'ma']",2,ma,2,ci,c,False,a,True
+cinco,"['cin', 'co']",2,co,2,cin,c,False,o,True
+cinqüenta,"['cin', 'qüen', 'ta']",3,ta,2,qüen,c,False,a,True
+circunstância,"['cir', 'cuns', 'tân', 'ci', 'a']",5,a,3,tân,c,False,a,True
+circunstâncias,"['cir', 'cuns', 'tân', 'ci', 'as']",5,as,3,tân,c,False,s,False
+civilização,"['ci', 'vi', 'li', 'za', 'ção']",5,ção,1,ção,c,False,o,True
+ciência,"['ci', 'ên', 'ci', 'a']",4,a,3,ên,c,False,a,True
+clara,"['cla', 'ra']",2,ra,2,cla,c,False,a,True
+clarinha,"['cla', 'ri', 'nha']",3,nha,2,ri,c,False,a,True
+claro,"['cla', 'ro']",2,ro,2,cla,c,False,o,True
+clemente,"['cle', 'men', 'te']",3,te,2,men,c,False,e,True
+clubin,"['clu', 'bin']",2,bin,1,bin,c,False,n,False
+cocheiro,"['co', 'chei', 'ro']",3,ro,2,chei,c,False,o,True
+coelho,"['coe', 'lho']",2,lho,2,coe,c,False,o,True
+coisa,"['coi', 'sa']",2,sa,2,coi,c,False,a,True
+coisas,"['coi', 'sas']",2,sas,2,coi,c,False,s,False
+colega,"['co', 'le', 'ga']",3,ga,2,le,c,False,a,True
+colégio,"['co', 'lé', 'gi', 'o']",4,o,3,lé,c,False,o,True
+com,['com'],1,com,1,com,c,False,m,False
+comendador,"['co', 'men', 'da', 'dor']",4,dor,1,dor,c,False,r,False
+comer,"['co', 'mer']",2,mer,1,mer,c,False,r,False
+começa,"['co', 'me', 'ça']",3,ça,2,me,c,False,a,True
+começar,"['co', 'me', 'çar']",3,çar,1,çar,c,False,r,False
+começava,"['co', 'me', 'ça', 'va']",4,va,2,ça,c,False,a,True
+começo,"['co', 'me', 'ço']",3,ço,2,me,c,False,o,True
+começou,"['co', 'me', 'çou']",3,çou,1,çou,c,False,u,True
+comigo,"['co', 'mi', 'go']",3,go,2,mi,c,False,o,True
+comissão,"['co', 'mis', 'são']",3,são,1,são,c,False,o,True
+como,"['co', 'mo']",2,mo,2,co,c,False,o,True
+comoção,"['co', 'mo', 'ção']",3,ção,1,ção,c,False,o,True
+companheiro,"['com', 'pa', 'nhei', 'ro']",4,ro,2,nhei,c,False,o,True
+companhia,"['com', 'pa', 'nhi', 'a']",4,a,2,nhi,c,False,a,True
+comparação,"['com', 'pa', 'ra', 'ção']",4,ção,1,ção,c,False,o,True
+completa,"['com', 'ple', 'ta']",3,ta,2,ple,c,False,a,True
+completamente,"['com', 'ple', 'ta', 'men', 'te']",5,te,2,men,c,False,e,True
+completo,"['com', 'ple', 'to']",3,to,2,ple,c,False,o,True
+composição,"['com', 'po', 'si', 'ção']",4,ção,1,ção,c,False,o,True
+comprar,"['com', 'prar']",2,prar,1,prar,c,False,r,False
+compreender,"['com', 'pre', 'en', 'der']",4,der,1,der,c,False,r,False
+compreendeu,"['com', 'pre', 'en', 'deu']",4,deu,1,deu,c,False,u,True
+compreendo,"['com', 'pre', 'en', 'do']",4,do,2,en,c,False,o,True
+comprido,"['com', 'pri', 'do']",3,do,2,pri,c,False,o,True
+comum,"['co', 'mum']",2,mum,1,mum,c,False,m,False
+comédia,"['co', 'mé', 'di', 'a']",4,a,3,mé,c,False,a,True
+comércio,"['co', 'mér', 'ci', 'o']",4,o,3,mér,c,False,o,True
+concluir,"['con', 'cluir']",2,cluir,1,cluir,c,False,r,False
+concluiu,"['con', 'clui', 'u']",3,u,2,clui,c,False,u,True
+conclusão,"['con', 'clu', 'são']",3,são,1,são,c,False,o,True
+conde,"['con', 'de']",2,de,2,con,c,False,e,True
+condição,"['con', 'di', 'ção']",3,ção,1,ção,c,False,o,True
+condições,"['con', 'di', 'ções']",3,ções,1,ções,c,False,s,False
+confessar,"['con', 'fes', 'sar']",3,sar,1,sar,c,False,r,False
+confesso,"['con', 'fes', 'so']",3,so,2,fes,c,False,o,True
+confessou,"['con', 'fes', 'sou']",3,sou,1,sou,c,False,u,True
+confiança,"['con', 'fi', 'an', 'ça']",4,ça,2,an,c,False,a,True
+confissão,"['con', 'fis', 'são']",3,são,1,são,c,False,o,True
+conforme,"['con', 'for', 'me']",3,me,2,for,c,False,e,True
+conhece,"['co', 'nhe', 'ce']",3,ce,2,nhe,c,False,e,True
+conhecer,"['co', 'nhe', 'cer']",3,cer,1,cer,c,False,r,False
+conhecia,"['co', 'nhe', 'ci', 'a']",4,a,2,ci,c,False,a,True
+conhecido,"['co', 'nhe', 'ci', 'do']",4,do,2,ci,c,False,o,True
+conhecimento,"['co', 'nhe', 'ci', 'men', 'to']",5,to,2,men,c,False,o,True
+conheço,"['co', 'nhe', 'ço']",3,ço,2,nhe,c,False,o,True
+conosco,"['co', 'nos', 'co']",3,co,2,nos,c,False,o,True
+conquanto,"['con', 'quan', 'to']",3,to,2,quan,c,False,o,True
+consciência,"['cons', 'ci', 'ên', 'ci', 'a']",5,a,3,ên,c,False,a,True
+conseguiu,"['con', 'se', 'gui', 'u']",4,u,2,gui,c,False,u,True
+conselheiro,"['con', 'se', 'lhei', 'ro']",4,ro,2,lhei,c,False,o,True
+conselho,"['con', 'se', 'lho']",3,lho,2,se,c,False,o,True
+conselhos,"['con', 'se', 'lhos']",3,lhos,2,se,c,False,s,False
+consideração,"['con', 'si', 'de', 'ra', 'ção']",5,ção,1,ção,c,False,o,True
+consigo,"['con', 'si', 'go']",3,go,2,si,c,False,o,True
+consolação,"['con', 'so', 'la', 'ção']",4,ção,1,ção,c,False,o,True
+constituição,"['cons', 'ti', 'tui', 'ção']",4,ção,1,ção,c,False,o,True
+conta,"['con', 'ta']",2,ta,2,con,c,False,a,True
+contando,"['con', 'tan', 'do']",3,do,2,tan,c,False,o,True
+contar,"['con', 'tar']",2,tar,1,tar,c,False,r,False
+contas,"['con', 'tas']",2,tas,2,con,c,False,s,False
+contava,"['con', 'ta', 'va']",3,va,2,ta,c,False,a,True
+contemplar,"['con', 'tem', 'plar']",3,plar,1,plar,c,False,r,False
+contente,"['con', 'ten', 'te']",3,te,2,ten,c,False,e,True
+contigo,"['con', 'ti', 'go']",3,go,2,ti,c,False,o,True
+continuar,"['con', 'ti', 'nuar']",3,nuar,1,nuar,c,False,r,False
+continuava,"['con', 'ti', 'nua', 'va']",4,va,2,nua,c,False,a,True
+continuou,"['con', 'ti', 'nuou']",3,nuou,1,nuou,c,False,u,True
+conto,"['con', 'to']",2,to,2,con,c,False,o,True
+contos,"['con', 'tos']",2,tos,2,con,c,False,s,False
+contou,"['con', 'tou']",2,tou,1,tou,c,False,u,True
+contra,"['con', 'tra']",2,tra,2,con,c,False,a,True
+contraste,"['con', 'tras', 'te']",3,te,2,tras,c,False,e,True
+contrário,"['con', 'trá', 'ri', 'o']",4,o,3,trá,c,False,o,True
+contudo,"['con', 'tu', 'do']",3,do,2,tu,c,False,o,True
+conversa,"['con', 'ver', 'sa']",3,sa,2,ver,c,False,a,True
+conversar,"['con', 'ver', 'sar']",3,sar,1,sar,c,False,r,False
+conversação,"['con', 'ver', 'sa', 'ção']",4,ção,1,ção,c,False,o,True
+convicção,"['con', 'vic', 'ção']",3,ção,1,ção,c,False,o,True
+convite,"['con', 'vi', 'te']",3,te,2,vi,c,False,e,True
+convém,"['con', 'vém']",2,vém,1,vém,c,False,m,False
+cor,['cor'],1,cor,1,cor,c,False,r,False
+coração,"['co', 'ra', 'ção']",3,ção,1,ção,c,False,o,True
+corações,"['co', 'ra', 'ções']",3,ções,1,ções,c,False,s,False
+corda,"['cor', 'da']",2,da,2,cor,c,False,a,True
+cores,"['co', 'res']",2,res,2,co,c,False,s,False
+coroa,"['co', 'roa']",2,roa,1,roa,c,False,a,True
+coronel,"['co', 'ro', 'nel']",3,nel,1,nel,c,False,l,False
+corpo,"['cor', 'po']",2,po,2,cor,c,False,o,True
+corre,"['cor', 're']",2,re,2,cor,c,False,e,True
+corredor,"['cor', 're', 'dor']",3,dor,1,dor,c,False,r,False
+correia,"['cor', 'rei', 'a']",3,a,2,rei,c,False,a,True
+correio,"['cor', 'rei', 'o']",3,o,2,rei,c,False,o,True
+correr,"['cor', 'rer']",2,rer,1,rer,c,False,r,False
+correu,"['cor', 'reu']",2,reu,1,reu,c,False,u,True
+corte,"['cor', 'te']",2,te,2,cor,c,False,e,True
+cosme,"['cos', 'me']",2,me,2,cos,c,False,e,True
+costa,"['cos', 'ta']",2,ta,2,cos,c,False,a,True
+costas,"['cos', 'tas']",2,tas,2,cos,c,False,s,False
+costume,"['cos', 'tu', 'me']",3,me,2,tu,c,False,e,True
+costumes,"['cos', 'tu', 'mes']",3,mes,2,tu,c,False,s,False
+creio,"['crei', 'o']",2,o,2,crei,c,False,o,True
+crer,['crer'],1,crer,1,crer,c,False,r,False
+criado,"['cri', 'a', 'do']",3,do,2,a,c,False,o,True
+criança,"['cri', 'an', 'ça']",3,ça,2,an,c,False,a,True
+crianças,"['cri', 'an', 'ças']",3,ças,2,an,c,False,s,False
+criatura,"['cri', 'a', 'tu', 'ra']",4,ra,2,tu,c,False,a,True
+criaturas,"['cri', 'a', 'tu', 'ras']",4,ras,2,tu,c,False,s,False
+criação,"['cri', 'a', 'ção']",3,ção,1,ção,c,False,o,True
+crime,"['cri', 'me']",2,me,2,cri,c,False,e,True
+crise,"['cri', 'se']",2,se,2,cri,c,False,e,True
+cristo,"['cris', 'to']",2,to,2,cris,c,False,o,True
+cruel,['cruel'],1,cruel,1,cruel,c,False,l,False
+cruz,['cruz'],1,cruz,1,cruz,c,False,z,False
+crê,['crê'],1,crê,1,crê,c,False,ê,True
+crítica,"['crí', 'ti', 'ca']",3,ca,3,crí,c,False,a,True
+crônica,"['crô', 'ni', 'ca']",3,ca,3,crô,c,False,a,True
+cuidado,"['cui', 'da', 'do']",3,do,2,da,c,False,o,True
+cuidados,"['cui', 'da', 'dos']",3,dos,2,da,c,False,s,False
+cuidar,"['cui', 'dar']",2,dar,1,dar,c,False,r,False
+cuidou,"['cui', 'dou']",2,dou,1,dou,c,False,u,True
+cuja,"['cu', 'ja']",2,ja,2,cu,c,False,a,True
+cujo,"['cu', 'jo']",2,jo,2,cu,c,False,o,True
+culpa,"['cul', 'pa']",2,pa,2,cul,c,False,a,True
+cumpria,"['cum', 'pri', 'a']",3,a,2,pri,c,False,a,True
+cumprir,"['cum', 'prir']",2,prir,1,prir,c,False,r,False
+curiosidade,"['cu', 'ri', 'o', 'si', 'da', 'de']",6,de,2,da,c,False,e,True
+curioso,"['cu', 'ri', 'o', 'so']",4,so,2,o,c,False,o,True
+curta,"['cur', 'ta']",2,ta,2,cur,c,False,a,True
+curto,"['cur', 'to']",2,to,2,cur,c,False,o,True
+custa,"['cus', 'ta']",2,ta,2,cus,c,False,a,True
+custo,"['cus', 'to']",2,to,2,cus,c,False,o,True
+cá,['cá'],1,cá,1,cá,c,False,á,True
+câmara,"['câ', 'ma', 'ra']",3,ra,3,câ,c,False,a,True
+cândido,"['cân', 'di', 'do']",3,do,3,cân,c,False,o,True
+cão,['cão'],1,cão,1,cão,c,False,o,True
+célebre,"['cé', 'le', 'bre']",3,bre,3,cé,c,False,e,True
+cérebro,"['cé', 're', 'bro']",3,bro,3,cé,c,False,o,True
+césar,"['cé', 'sar']",2,sar,2,cé,c,False,r,False
+céu,['céu'],1,céu,1,céu,c,False,u,True
+cólera,"['có', 'le', 'ra']",3,ra,3,có,c,False,a,True
+da,['da'],1,da,1,da,d,False,a,True
+dada,"['da', 'da']",2,da,2,da,d,False,a,True
+dado,"['da', 'do']",2,do,2,da,d,False,o,True
+dali,"['da', 'li']",2,li,1,li,d,False,i,True
+dama,"['da', 'ma']",2,ma,2,da,d,False,a,True
+damas,"['da', 'mas']",2,mas,2,da,d,False,s,False
+dando,"['dan', 'do']",2,do,2,dan,d,False,o,True
+daniel,"['da', 'ni', 'el']",3,el,1,el,d,False,l,False
+daquela,"['da', 'que', 'la']",3,la,2,que,d,False,a,True
+daquelas,"['da', 'que', 'las']",3,las,2,que,d,False,s,False
+daquele,"['da', 'que', 'le']",3,le,2,que,d,False,e,True
+daqueles,"['da', 'que', 'les']",3,les,2,que,d,False,s,False
+daqui,"['da', 'qui']",2,qui,1,qui,d,False,i,True
+dar,['dar'],1,dar,1,dar,d,False,r,False
+daria,"['da', 'ri', 'a']",3,a,2,ri,d,False,a,True
+das,['das'],1,das,1,das,d,False,s,False
+data,"['da', 'ta']",2,ta,2,da,d,False,a,True
+dava,"['da', 'va']",2,va,2,da,d,False,a,True
+davam,"['da', 'vam']",2,vam,2,da,d,False,m,False
+daí,"['da', 'í']",2,í,1,í,d,False,í,True
+de,['de'],1,de,1,de,d,False,e,True
+debaixo,"['de', 'bai', 'xo']",3,xo,2,bai,d,False,o,True
+decerto,"['de', 'cer', 'to']",3,to,2,cer,d,False,o,True
+declaração,"['de', 'cla', 'ra', 'ção']",4,ção,1,ção,d,False,o,True
+declarou,"['de', 'cla', 'rou']",3,rou,1,rou,d,False,u,True
+dedo,"['de', 'do']",2,do,2,de,d,False,o,True
+dedos,"['de', 'dos']",2,dos,2,de,d,False,s,False
+defeito,"['de', 'fei', 'to']",3,to,2,fei,d,False,o,True
+defeitos,"['de', 'fei', 'tos']",3,tos,2,fei,d,False,s,False
+defronte,"['de', 'fron', 'te']",3,te,2,fron,d,False,e,True
+defunto,"['de', 'fun', 'to']",3,to,2,fun,d,False,o,True
+dei,['dei'],1,dei,1,dei,d,False,i,True
+deixa,"['dei', 'xa']",2,xa,2,dei,d,False,a,True
+deixando,"['dei', 'xan', 'do']",3,do,2,xan,d,False,o,True
+deixar,"['dei', 'xar']",2,xar,1,xar,d,False,r,False
+deixara,"['dei', 'xa', 'ra']",3,ra,2,xa,d,False,a,True
+deixava,"['dei', 'xa', 'va']",3,va,2,xa,d,False,a,True
+deixe,"['dei', 'xe']",2,xe,2,dei,d,False,e,True
+deixei,"['dei', 'xei']",2,xei,1,xei,d,False,i,True
+deixo,"['dei', 'xo']",2,xo,2,dei,d,False,o,True
+deixou,"['dei', 'xou']",2,xou,1,xou,d,False,u,True
+dela,"['de', 'la']",2,la,2,de,d,False,a,True
+delas,"['de', 'las']",2,las,2,de,d,False,s,False
+dele,"['de', 'le']",2,le,2,de,d,False,e,True
+deles,"['de', 'les']",2,les,2,de,d,False,s,False
+delírio,"['de', 'lí', 'ri', 'o']",4,o,3,lí,d,False,o,True
+demais,"['de', 'ma', 'is']",3,is,2,ma,d,False,s,False
+demora,"['de', 'mo', 'ra']",3,ra,2,mo,d,False,a,True
+dentes,"['den', 'tes']",2,tes,2,den,d,False,s,False
+dentro,"['den', 'tro']",2,tro,2,den,d,False,o,True
+depois,"['de', 'pois']",2,pois,1,pois,d,False,s,False
+depressa,"['de', 'pres', 'sa']",3,sa,2,pres,d,False,a,True
+deputado,"['de', 'pu', 'ta', 'do']",4,do,2,ta,d,False,o,True
+deputados,"['de', 'pu', 'ta', 'dos']",4,dos,2,ta,d,False,s,False
+dera,"['de', 'ra']",2,ra,2,de,d,False,a,True
+deram,"['de', 'ram']",2,ram,2,de,d,False,m,False
+desapareceu,"['de', 'sa', 'pa', 're', 'ceu']",5,ceu,1,ceu,d,False,u,True
+desastre,"['de', 'sas', 'tre']",3,tre,2,sas,d,False,e,True
+descer,"['des', 'cer']",2,cer,1,cer,d,False,r,False
+desceu,"['des', 'ceu']",2,ceu,1,ceu,d,False,u,True
+descoberta,"['des', 'co', 'ber', 'ta']",4,ta,2,ber,d,False,a,True
+descobrir,"['des', 'co', 'brir']",3,brir,1,brir,d,False,r,False
+descobriu,"['des', 'co', 'bri', 'u']",4,u,2,bri,d,False,u,True
+desconhecido,"['des', 'co', 'nhe', 'ci', 'do']",5,do,2,ci,d,False,o,True
+desde,"['des', 'de']",2,de,2,des,d,False,e,True
+desdém,"['des', 'dém']",2,dém,1,dém,d,False,m,False
+desejava,"['de', 'se', 'ja', 'va']",4,va,2,ja,d,False,a,True
+desejo,"['de', 'se', 'jo']",3,jo,2,se,d,False,o,True
+desejos,"['de', 'se', 'jos']",3,jos,2,se,d,False,s,False
+desembargador,"['de', 'sem', 'bar', 'ga', 'dor']",5,dor,1,dor,d,False,r,False
+desespero,"['de', 'ses', 'pe', 'ro']",4,ro,2,pe,d,False,o,True
+desgosto,"['des', 'gos', 'to']",3,to,2,gos,d,False,o,True
+desgraça,"['des', 'gra', 'ça']",3,ça,2,gra,d,False,a,True
+despeito,"['des', 'pei', 'to']",3,to,2,pei,d,False,o,True
+dessa,"['des', 'sa']",2,sa,2,des,d,False,a,True
+dessas,"['des', 'sas']",2,sas,2,des,d,False,s,False
+desse,"['des', 'se']",2,se,2,des,d,False,e,True
+desses,"['des', 'ses']",2,ses,2,des,d,False,s,False
+desta,"['des', 'ta']",2,ta,2,des,d,False,a,True
+destas,"['des', 'tas']",2,tas,2,des,d,False,s,False
+deste,"['des', 'te']",2,te,2,des,d,False,e,True
+destes,"['des', 'tes']",2,tes,2,des,d,False,s,False
+destino,"['des', 'ti', 'no']",3,no,2,ti,d,False,o,True
+deu,['deu'],1,deu,1,deu,d,False,u,True
+deus,['deus'],1,deus,1,deus,d,False,s,False
+deuses,"['deu', 'ses']",2,ses,2,deu,d,False,s,False
+deve,"['de', 've']",2,ve,2,de,d,False,e,True
+devem,"['de', 'vem']",2,vem,2,de,d,False,m,False
+dever,"['de', 'ver']",2,ver,1,ver,d,False,r,False
+deveras,"['de', 've', 'ras']",3,ras,2,ve,d,False,s,False
+devia,"['de', 'vi', 'a']",3,a,2,vi,d,False,a,True
+deviam,"['de', 'vi', 'am']",3,am,2,vi,d,False,m,False
+devo,"['de', 'vo']",2,vo,2,de,d,False,o,True
+dez,['dez'],1,dez,1,dez,d,False,z,False
+dezembro,"['de', 'zem', 'bro']",3,bro,2,zem,d,False,o,True
+dia,"['di', 'a']",2,a,2,di,d,False,a,True
+diabo,"['di', 'a', 'bo']",3,bo,2,a,d,False,o,True
+diante,"['di', 'an', 'te']",3,te,2,an,d,False,e,True
+dias,"['di', 'as']",2,as,2,di,d,False,s,False
+diferente,"['di', 'fe', 'ren', 'te']",4,te,2,ren,d,False,e,True
+diferentes,"['di', 'fe', 'ren', 'tes']",4,tes,2,ren,d,False,s,False
+diferença,"['di', 'fe', 'ren', 'ça']",4,ça,2,ren,d,False,a,True
+dificuldade,"['di', 'fi', 'cul', 'da', 'de']",5,de,2,da,d,False,e,True
+difícil,"['di', 'fí', 'cil']",3,cil,2,fí,d,False,l,False
+diga,"['di', 'ga']",2,ga,2,di,d,False,a,True
+digna,"['dig', 'na']",2,na,2,dig,d,False,a,True
+dignidade,"['dig', 'ni', 'da', 'de']",4,de,2,da,d,False,e,True
+digno,"['dig', 'no']",2,no,2,dig,d,False,o,True
+digo,"['di', 'go']",2,go,2,di,d,False,o,True
+dinheiro,"['di', 'nhei', 'ro']",3,ro,2,nhei,d,False,o,True
+diogo,"['di', 'o', 'go']",3,go,2,o,d,False,o,True
+direi,"['di', 'rei']",2,rei,1,rei,d,False,i,True
+direita,"['di', 'rei', 'ta']",3,ta,2,rei,d,False,a,True
+direito,"['di', 'rei', 'to']",3,to,2,rei,d,False,o,True
+direção,"['di', 're', 'ção']",3,ção,1,ção,d,False,o,True
+diria,"['di', 'ri', 'a']",3,a,2,ri,d,False,a,True
+dirá,"['di', 'rá']",2,rá,1,rá,d,False,á,True
+discurso,"['dis', 'cur', 'so']",3,so,2,cur,d,False,o,True
+discursos,"['dis', 'cur', 'sos']",3,sos,2,cur,d,False,s,False
+discussão,"['dis', 'cus', 'são']",3,são,1,são,d,False,o,True
+disposição,"['dis', 'po', 'si', 'ção']",4,ção,1,ção,d,False,o,True
+disposto,"['dis', 'pos', 'to']",3,to,2,pos,d,False,o,True
+disse,"['dis', 'se']",2,se,2,dis,d,False,e,True
+dissera,"['dis', 'se', 'ra']",3,ra,2,se,d,False,a,True
+disseram,"['dis', 'se', 'ram']",3,ram,2,se,d,False,m,False
+dissesse,"['dis', 'ses', 'se']",3,se,2,ses,d,False,e,True
+disso,"['dis', 'so']",2,so,2,dis,d,False,o,True
+distinto,"['dis', 'tin', 'to']",3,to,2,tin,d,False,o,True
+disto,"['dis', 'to']",2,to,2,dis,d,False,o,True
+distância,"['dis', 'tân', 'ci', 'a']",4,a,3,tân,d,False,a,True
+dito,"['di', 'to']",2,to,2,di,d,False,o,True
+divina,"['di', 'vi', 'na']",3,na,2,vi,d,False,a,True
+divino,"['di', 'vi', 'no']",3,no,2,vi,d,False,o,True
+diz,['diz'],1,diz,1,diz,d,False,z,False
+dizem,"['di', 'zem']",2,zem,2,di,d,False,m,False
+dizendo,"['di', 'zen', 'do']",3,do,2,zen,d,False,o,True
+dizer,"['di', 'zer']",2,zer,1,zer,d,False,r,False
+dizia,"['di', 'zi', 'a']",3,a,2,zi,d,False,a,True
+diziam,"['di', 'zi', 'am']",3,am,2,zi,d,False,m,False
+diálogo,"['di', 'á', 'lo', 'go']",4,go,3,á,d,False,o,True
+do,['do'],1,do,1,do,d,False,o,True
+doce,"['do', 'ce']",2,ce,2,do,d,False,e,True
+doente,"['doen', 'te']",2,te,2,doen,d,False,e,True
+doença,"['doen', 'ça']",2,ça,2,doen,d,False,a,True
+doido,"['doi', 'do']",2,do,2,doi,d,False,o,True
+dois,['dois'],1,dois,1,dois,d,False,s,False
+dom,['dom'],1,dom,1,dom,d,False,m,False
+domingo,"['do', 'min', 'go']",3,go,2,min,d,False,o,True
+dona,"['do', 'na']",2,na,2,do,d,False,a,True
+donde,"['don', 'de']",2,de,2,don,d,False,e,True
+dono,"['do', 'no']",2,no,2,do,d,False,o,True
+dor,['dor'],1,dor,1,dor,d,False,r,False
+dores,"['do', 'res']",2,res,2,do,d,False,s,False
+dormia,"['dor', 'mi', 'a']",3,a,2,mi,d,False,a,True
+dormir,"['dor', 'mir']",2,mir,1,mir,d,False,r,False
+dos,['dos'],1,dos,1,dos,d,False,s,False
+dou,['dou'],1,dou,1,dou,d,False,u,True
+doutor,"['dou', 'tor']",2,tor,1,tor,d,False,r,False
+doutrina,"['dou', 'tri', 'na']",3,na,2,tri,d,False,a,True
+douvres,"['dou', 'vres']",2,vres,2,dou,d,False,s,False
+doze,"['do', 'ze']",2,ze,2,do,d,False,e,True
+drama,"['dra', 'ma']",2,ma,2,dra,d,False,a,True
+dramática,"['dra', 'má', 'ti', 'ca']",4,ca,3,má,d,False,a,True
+dramático,"['dra', 'má', 'ti', 'co']",4,co,3,má,d,False,o,True
+duas,['duas'],1,duas,1,duas,d,False,s,False
+dumont,"['du', 'mont']",2,mont,2,du,d,False,t,False
+dura,"['du', 'ra']",2,ra,2,du,d,False,a,True
+durande,"['du', 'ran', 'de']",3,de,2,ran,d,False,e,True
+durante,"['du', 'ran', 'te']",3,te,2,ran,d,False,e,True
+duro,"['du', 'ro']",2,ro,2,du,d,False,o,True
+durou,"['du', 'rou']",2,rou,1,rou,d,False,u,True
+durval,"['dur', 'val']",2,val,1,val,d,False,l,False
+duzentos,"['du', 'zen', 'tos']",3,tos,2,zen,d,False,s,False
+dá,['dá'],1,dá,1,dá,d,False,á,True
+dão,['dão'],1,dão,1,dão,d,False,o,True
+déruchette,"['dé', 'ru', 'che', 'tte']",4,tte,4,dé,d,False,e,True
+dê,['dê'],1,dê,1,dê,d,False,ê,True
+dúvida,"['dú', 'vi', 'da']",3,da,3,dú,d,False,a,True
+dúzia,"['dú', 'zi', 'a']",3,a,3,dú,d,False,a,True
+eco,"['e', 'co']",2,co,2,e,e,True,o,True
+eduardo,"['e', 'duar', 'do']",3,do,2,duar,e,True,o,True
+educação,"['e', 'du', 'ca', 'ção']",4,ção,1,ção,e,True,o,True
+efeito,"['e', 'fei', 'to']",3,to,2,fei,e,True,o,True
+efeitos,"['e', 'fei', 'tos']",3,tos,2,fei,e,True,s,False
+efetivamente,"['e', 'fe', 'ti', 'va', 'men', 'te']",6,te,2,men,e,True,e,True
+eis,['eis'],1,eis,1,eis,e,True,s,False
+ela,"['e', 'la']",2,la,2,e,e,True,a,True
+elas,"['e', 'las']",2,las,2,e,e,True,s,False
+ele,"['e', 'le']",2,le,2,e,e,True,e,True
+elegante,"['e', 'le', 'gan', 'te']",4,te,2,gan,e,True,e,True
+eleição,"['e', 'lei', 'ção']",3,ção,1,ção,e,True,o,True
+elementos,"['e', 'le', 'men', 'tos']",4,tos,2,men,e,True,s,False
+eles,"['e', 'les']",2,les,2,e,e,True,s,False
+elisa,"['e', 'li', 'sa']",3,sa,2,li,e,True,a,True
+em,['em'],1,em,1,em,e,True,m,False
+embaixo,"['em', 'bai', 'xo']",3,xo,2,bai,e,True,o,True
+embora,"['em', 'bo', 'ra']",3,ra,2,bo,e,True,a,True
+empregado,"['em', 'pre', 'ga', 'do']",4,do,2,ga,e,True,o,True
+emprego,"['em', 'pre', 'go']",3,go,2,pre,e,True,o,True
+empresa,"['em', 'pre', 'sa']",3,sa,2,pre,e,True,a,True
+emília,"['e', 'mí', 'li', 'a']",4,a,3,mí,e,True,a,True
+emílio,"['e', 'mí', 'li', 'o']",4,o,3,mí,e,True,o,True
+encontrar,"['en', 'con', 'trar']",3,trar,1,trar,e,True,r,False
+encontro,"['en', 'con', 'tro']",3,tro,2,con,e,True,o,True
+encontrou,"['en', 'con', 'trou']",3,trou,1,trou,e,True,u,True
+enfermo,"['en', 'fer', 'mo']",3,mo,2,fer,e,True,o,True
+enfim,"['en', 'fim']",2,fim,1,fim,e,True,m,False
+engano,"['en', 'ga', 'no']",3,no,2,ga,e,True,o,True
+engenho,"['en', 'ge', 'nho']",3,nho,2,ge,e,True,o,True
+enorme,"['e', 'nor', 'me']",3,me,2,nor,e,True,e,True
+enquanto,"['en', 'quan', 'to']",3,to,2,quan,e,True,o,True
+entender,"['en', 'ten', 'der']",3,der,1,der,e,True,r,False
+entendeu,"['en', 'ten', 'deu']",3,deu,1,deu,e,True,u,True
+enterro,"['en', 'ter', 'ro']",3,ro,2,ter,e,True,o,True
+entra,"['en', 'tra']",2,tra,2,en,e,True,a,True
+entrada,"['en', 'tra', 'da']",3,da,2,tra,e,True,a,True
+entrando,"['en', 'tran', 'do']",3,do,2,tran,e,True,o,True
+entrar,"['en', 'trar']",2,trar,1,trar,e,True,r,False
+entraram,"['en', 'tra', 'ram']",3,ram,2,tra,e,True,m,False
+entrava,"['en', 'tra', 'va']",3,va,2,tra,e,True,a,True
+entre,"['en', 'tre']",2,tre,2,en,e,True,e,True
+entregue,"['en', 'tre', 'gue']",3,gue,2,tre,e,True,e,True
+entrei,"['en', 'trei']",2,trei,1,trei,e,True,i,True
+entretanto,"['en', 'tre', 'tan', 'to']",4,to,2,tan,e,True,o,True
+entrou,"['en', 'trou']",2,trou,1,trou,e,True,u,True
+entusiasmo,"['en', 'tu', 'si', 'as', 'mo']",5,mo,2,as,e,True,o,True
+então,"['en', 'tão']",2,tão,1,tão,e,True,o,True
+episódio,"['e', 'pi', 'só', 'di', 'o']",5,o,3,só,e,True,o,True
+era,"['e', 'ra']",2,ra,2,e,e,True,a,True
+eram,"['e', 'ram']",2,ram,2,e,e,True,m,False
+ernesto,"['er', 'nes', 'to']",3,to,2,nes,e,True,o,True
+erro,"['er', 'ro']",2,ro,2,er,e,True,o,True
+escada,"['es', 'ca', 'da']",3,da,2,ca,e,True,a,True
+escobar,"['es', 'co', 'bar']",3,bar,1,bar,e,True,r,False
+escola,"['es', 'co', 'la']",3,la,2,co,e,True,a,True
+escolha,"['es', 'co', 'lha']",3,lha,2,co,e,True,a,True
+escolher,"['es', 'co', 'lher']",3,lher,1,lher,e,True,r,False
+escolho,"['es', 'co', 'lho']",3,lho,2,co,e,True,o,True
+escrava,"['es', 'cra', 'va']",3,va,2,cra,e,True,a,True
+escravo,"['es', 'cra', 'vo']",3,vo,2,cra,e,True,o,True
+escravos,"['es', 'cra', 'vos']",3,vos,2,cra,e,True,s,False
+escreve,"['es', 'cre', 've']",3,ve,2,cre,e,True,e,True
+escrever,"['es', 'cre', 'ver']",3,ver,1,ver,e,True,r,False
+escreveu,"['es', 'cre', 'veu']",3,veu,1,veu,e,True,u,True
+escrevi,"['es', 'cre', 'vi']",3,vi,1,vi,e,True,i,True
+escrita,"['es', 'cri', 'ta']",3,ta,2,cri,e,True,a,True
+escrito,"['es', 'cri', 'to']",3,to,2,cri,e,True,o,True
+escritor,"['es', 'cri', 'tor']",3,tor,1,tor,e,True,r,False
+escritos,"['es', 'cri', 'tos']",3,tos,2,cri,e,True,s,False
+escritório,"['es', 'cri', 'tó', 'ri', 'o']",5,o,3,tó,e,True,o,True
+escrivão,"['es', 'cri', 'vão']",3,vão,1,vão,e,True,o,True
+escuro,"['es', 'cu', 'ro']",3,ro,2,cu,e,True,o,True
+esforço,"['es', 'for', 'ço']",3,ço,2,for,e,True,o,True
+esforços,"['es', 'for', 'ços']",3,ços,2,for,e,True,s,False
+espada,"['es', 'pa', 'da']",3,da,2,pa,e,True,a,True
+espantado,"['es', 'pan', 'ta', 'do']",4,do,2,ta,e,True,o,True
+espanto,"['es', 'pan', 'to']",3,to,2,pan,e,True,o,True
+espaço,"['es', 'pa', 'ço']",3,ço,2,pa,e,True,o,True
+especial,"['es', 'pe', 'ci', 'al']",4,al,1,al,e,True,l,False
+espelho,"['es', 'pe', 'lho']",3,lho,2,pe,e,True,o,True
+espera,"['es', 'pe', 'ra']",3,ra,2,pe,e,True,a,True
+esperando,"['es', 'pe', 'ran', 'do']",4,do,2,ran,e,True,o,True
+esperança,"['es', 'pe', 'ran', 'ça']",4,ça,2,ran,e,True,a,True
+esperanças,"['es', 'pe', 'ran', 'ças']",4,ças,2,ran,e,True,s,False
+esperar,"['es', 'pe', 'rar']",3,rar,1,rar,e,True,r,False
+esperava,"['es', 'pe', 'ra', 'va']",4,va,2,ra,e,True,a,True
+espero,"['es', 'pe', 'ro']",3,ro,2,pe,e,True,o,True
+esperou,"['es', 'pe', 'rou']",3,rou,1,rou,e,True,u,True
+espetáculo,"['es', 'pe', 'tá', 'cu', 'lo']",5,lo,3,tá,e,True,o,True
+esposa,"['es', 'po', 'sa']",3,sa,2,po,e,True,a,True
+esposo,"['es', 'po', 'so']",3,so,2,po,e,True,o,True
+espécie,"['es', 'pé', 'ci', 'e']",4,e,3,pé,e,True,e,True
+espírito,"['es', 'pí', 'ri', 'to']",4,to,3,pí,e,True,o,True
+espíritos,"['es', 'pí', 'ri', 'tos']",4,tos,3,pí,e,True,s,False
+esquecer,"['es', 'que', 'cer']",3,cer,1,cer,e,True,r,False
+esqueceu,"['es', 'que', 'ceu']",3,ceu,1,ceu,e,True,u,True
+esquerda,"['es', 'quer', 'da']",3,da,2,quer,e,True,a,True
+esquina,"['es', 'qui', 'na']",3,na,2,qui,e,True,a,True
+essa,"['es', 'sa']",2,sa,2,es,e,True,a,True
+essas,"['es', 'sas']",2,sas,2,es,e,True,s,False
+esse,"['es', 'se']",2,se,2,es,e,True,e,True
+esses,"['es', 'ses']",2,ses,2,es,e,True,s,False
+esta,"['es', 'ta']",2,ta,2,es,e,True,a,True
+estado,"['es', 'ta', 'do']",3,do,2,ta,e,True,o,True
+estados,"['es', 'ta', 'dos']",3,dos,2,ta,e,True,s,False
+estamos,"['es', 'ta', 'mos']",3,mos,2,ta,e,True,s,False
+estando,"['es', 'tan', 'do']",3,do,2,tan,e,True,o,True
+estar,"['es', 'tar']",2,tar,1,tar,e,True,r,False
+estaria,"['es', 'ta', 'ri', 'a']",4,a,2,ri,e,True,a,True
+estas,"['es', 'tas']",2,tas,2,es,e,True,s,False
+estava,"['es', 'ta', 'va']",3,va,2,ta,e,True,a,True
+estavam,"['es', 'ta', 'vam']",3,vam,2,ta,e,True,m,False
+estação,"['es', 'ta', 'ção']",3,ção,1,ção,e,True,o,True
+este,"['es', 'te']",2,te,2,es,e,True,e,True
+esteja,"['es', 'te', 'ja']",3,ja,2,te,e,True,a,True
+estela,"['es', 'te', 'la']",3,la,2,te,e,True,a,True
+estes,"['es', 'tes']",2,tes,2,es,e,True,s,False
+esteve,"['es', 'te', 've']",3,ve,2,te,e,True,e,True
+estevão,"['es', 'te', 'vão']",3,vão,1,vão,e,True,o,True
+estilo,"['es', 'ti', 'lo']",3,lo,2,ti,e,True,o,True
+estima,"['es', 'ti', 'ma']",3,ma,2,ti,e,True,a,True
+estivesse,"['es', 'ti', 'ves', 'se']",4,se,2,ves,e,True,e,True
+estou,"['es', 'tou']",2,tou,1,tou,e,True,u,True
+estrada,"['es', 'tra', 'da']",3,da,2,tra,e,True,a,True
+estranha,"['es', 'tra', 'nha']",3,nha,2,tra,e,True,a,True
+estranho,"['es', 'tra', 'nho']",3,nho,2,tra,e,True,o,True
+estrela,"['es', 'tre', 'la']",3,la,2,tre,e,True,a,True
+estrelas,"['es', 'tre', 'las']",3,las,2,tre,e,True,s,False
+estremeceu,"['es', 'tre', 'me', 'ceu']",4,ceu,1,ceu,e,True,u,True
+estudo,"['es', 'tu', 'do']",3,do,2,tu,e,True,o,True
+estudos,"['es', 'tu', 'dos']",3,dos,2,tu,e,True,s,False
+está,"['es', 'tá']",2,tá,1,tá,e,True,á,True
+estácio,"['es', 'tá', 'ci', 'o']",4,o,3,tá,e,True,o,True
+estás,"['es', 'tás']",2,tás,1,tás,e,True,s,False
+estávamos,"['es', 'tá', 'va', 'mos']",4,mos,3,tá,e,True,s,False
+estão,"['es', 'tão']",2,tão,1,tão,e,True,o,True
+estêvão,"['es', 'tê', 'vão']",3,vão,2,tê,e,True,o,True
+estômago,"['es', 'tô', 'ma', 'go']",4,go,3,tô,e,True,o,True
+etc,"['e', 'tc']",2,tc,2,e,e,True,c,False
+eterna,"['e', 'ter', 'na']",3,na,2,ter,e,True,a,True
+eternidade,"['e', 'ter', 'ni', 'da', 'de']",5,de,2,da,e,True,e,True
+eterno,"['e', 'ter', 'no']",3,no,2,ter,e,True,o,True
+eu,['eu'],1,eu,1,eu,e,True,u,True
+eugênia,"['eu', 'gê', 'ni', 'a']",4,a,3,gê,e,True,a,True
+eulália,"['eu', 'lá', 'li', 'a']",4,a,3,lá,e,True,a,True
+europa,"['eu', 'ro', 'pa']",3,pa,2,ro,e,True,a,True
+exa,"['e', 'xa']",2,xa,2,e,e,True,a,True
+exatamente,"['e', 'xa', 'ta', 'men', 'te']",5,te,2,men,e,True,e,True
+excelente,"['ex', 'ce', 'len', 'te']",4,te,2,len,e,True,e,True
+exceção,"['ex', 'ce', 'ção']",3,ção,1,ção,e,True,o,True
+excia,"['ex', 'ci', 'a']",3,a,2,ci,e,True,a,True
+exclamou,"['ex', 'cla', 'mou']",3,mou,1,mou,e,True,u,True
+execução,"['e', 'xe', 'cu', 'ção']",4,ção,1,ção,e,True,o,True
+exemplo,"['e', 'xem', 'plo']",3,plo,2,xem,e,True,o,True
+existe,"['e', 'xis', 'te']",3,te,2,xis,e,True,e,True
+existência,"['e', 'xis', 'tên', 'ci', 'a']",5,a,3,tên,e,True,a,True
+experiência,"['ex', 'pe', 'ri', 'ên', 'ci', 'a']",6,a,3,ên,e,True,a,True
+explicar,"['ex', 'pli', 'car']",3,car,1,car,e,True,r,False
+explicação,"['ex', 'pli', 'ca', 'ção']",4,ção,1,ção,e,True,o,True
+explicou,"['ex', 'pli', 'cou']",3,cou,1,cou,e,True,u,True
+exposição,"['ex', 'po', 'si', 'ção']",4,ção,1,ção,e,True,o,True
+expressão,"['ex', 'pres', 'são']",3,são,1,são,e,True,o,True
+face,"['fa', 'ce']",2,ce,2,fa,f,False,e,True
+facilmente,"['fa', 'cil', 'men', 'te']",4,te,2,men,f,False,e,True
+fala,"['fa', 'la']",2,la,2,fa,f,False,a,True
+falando,"['fa', 'lan', 'do']",3,do,2,lan,f,False,o,True
+falar,"['fa', 'lar']",2,lar,1,lar,f,False,r,False
+falava,"['fa', 'la', 'va']",3,va,2,la,f,False,a,True
+falavam,"['fa', 'la', 'vam']",3,vam,2,la,f,False,m,False
+fale,"['fa', 'le']",2,le,2,fa,f,False,e,True
+falei,"['fa', 'lei']",2,lei,1,lei,f,False,i,True
+falemos,"['fa', 'le', 'mos']",3,mos,2,le,f,False,s,False
+falo,"['fa', 'lo']",2,lo,2,fa,f,False,o,True
+falou,"['fa', 'lou']",2,lou,1,lou,f,False,u,True
+falta,"['fal', 'ta']",2,ta,2,fal,f,False,a,True
+faltava,"['fal', 'ta', 'va']",3,va,2,ta,f,False,a,True
+familiar,"['fa', 'mi', 'li', 'ar']",4,ar,1,ar,f,False,r,False
+família,"['fa', 'mí', 'li', 'a']",4,a,3,mí,f,False,a,True
+famílias,"['fa', 'mí', 'li', 'as']",4,as,3,mí,f,False,s,False
+fantasia,"['fan', 'ta', 'si', 'a']",4,a,2,si,f,False,a,True
+faria,"['fa', 'ri', 'a']",3,a,2,ri,f,False,a,True
+fará,"['fa', 'rá']",2,rá,1,rá,f,False,á,True
+fatal,"['fa', 'tal']",2,tal,1,tal,f,False,l,False
+fato,"['fa', 'to']",2,to,2,fa,f,False,o,True
+fatos,"['fa', 'tos']",2,tos,2,fa,f,False,s,False
+favor,"['fa', 'vor']",2,vor,1,vor,f,False,r,False
+faz,['faz'],1,faz,1,faz,f,False,z,False
+fazem,"['fa', 'zem']",2,zem,2,fa,f,False,m,False
+fazenda,"['fa', 'zen', 'da']",3,da,2,zen,f,False,a,True
+fazendo,"['fa', 'zen', 'do']",3,do,2,zen,f,False,o,True
+fazer,"['fa', 'zer']",2,zer,1,zer,f,False,r,False
+fazia,"['fa', 'zi', 'a']",3,a,2,zi,f,False,a,True
+faziam,"['fa', 'zi', 'am']",3,am,2,zi,f,False,m,False
+faça,"['fa', 'ça']",2,ça,2,fa,f,False,a,True
+faço,"['fa', 'ço']",2,ço,2,fa,f,False,o,True
+febre,"['fe', 'bre']",2,bre,2,fe,f,False,e,True
+fechada,"['fe', 'cha', 'da']",3,da,2,cha,f,False,a,True
+fechar,"['fe', 'char']",2,char,1,char,f,False,r,False
+fechou,"['fe', 'chou']",2,chou,1,chou,f,False,u,True
+feio,"['fei', 'o']",2,o,2,fei,f,False,o,True
+feita,"['fei', 'ta']",2,ta,2,fei,f,False,a,True
+feitas,"['fei', 'tas']",2,tas,2,fei,f,False,s,False
+feito,"['fei', 'to']",2,to,2,fei,f,False,o,True
+feitos,"['fei', 'tos']",2,tos,2,fei,f,False,s,False
+feição,"['fei', 'ção']",2,ção,1,ção,f,False,o,True
+feições,"['fei', 'ções']",2,ções,1,ções,f,False,s,False
+felicidade,"['fe', 'li', 'ci', 'da', 'de']",5,de,2,da,f,False,e,True
+feliz,"['fe', 'liz']",2,liz,1,liz,f,False,z,False
+felizes,"['fe', 'li', 'zes']",3,zes,2,li,f,False,s,False
+felizmente,"['fe', 'liz', 'men', 'te']",4,te,2,men,f,False,e,True
+fenômeno,"['fe', 'nô', 'me', 'no']",4,no,3,nô,f,False,o,True
+fernanda,"['fer', 'nan', 'da']",3,da,2,nan,f,False,a,True
+fernandes,"['fer', 'nan', 'des']",3,des,2,nan,f,False,s,False
+fernando,"['fer', 'nan', 'do']",3,do,2,nan,f,False,o,True
+ferro,"['fer', 'ro']",2,ro,2,fer,f,False,o,True
+festa,"['fes', 'ta']",2,ta,2,fes,f,False,a,True
+festas,"['fes', 'tas']",2,tas,2,fes,f,False,s,False
+fevereiro,"['fe', 've', 'rei', 'ro']",4,ro,2,rei,f,False,o,True
+fez,['fez'],1,fez,1,fez,f,False,z,False
+fica,"['fi', 'ca']",2,ca,2,fi,f,False,a,True
+ficam,"['fi', 'cam']",2,cam,2,fi,f,False,m,False
+ficando,"['fi', 'can', 'do']",3,do,2,can,f,False,o,True
+ficar,"['fi', 'car']",2,car,1,car,f,False,r,False
+ficara,"['fi', 'ca', 'ra']",3,ra,2,ca,f,False,a,True
+ficaram,"['fi', 'ca', 'ram']",3,ram,2,ca,f,False,m,False
+ficaria,"['fi', 'ca', 'ri', 'a']",4,a,2,ri,f,False,a,True
+ficasse,"['fi', 'cas', 'se']",3,se,2,cas,f,False,e,True
+ficava,"['fi', 'ca', 'va']",3,va,2,ca,f,False,a,True
+fico,"['fi', 'co']",2,co,2,fi,f,False,o,True
+ficou,"['fi', 'cou']",2,cou,1,cou,f,False,u,True
+fidélia,"['fi', 'dé', 'li', 'a']",4,a,3,dé,f,False,a,True
+fiel,"['fi', 'el']",2,el,1,el,f,False,l,False
+figura,"['fi', 'gu', 'ra']",3,ra,2,gu,f,False,a,True
+figuras,"['fi', 'gu', 'ras']",3,ras,2,gu,f,False,s,False
+filha,"['fi', 'lha']",2,lha,2,fi,f,False,a,True
+filhas,"['fi', 'lhas']",2,lhas,2,fi,f,False,s,False
+filho,"['fi', 'lho']",2,lho,2,fi,f,False,o,True
+filhos,"['fi', 'lhos']",2,lhos,2,fi,f,False,s,False
+filosofia,"['fi', 'lo', 'so', 'fi', 'a']",5,a,5,fi,f,False,a,True
+filósofo,"['fi', 'ló', 'so', 'fo']",4,fo,3,ló,f,False,o,True
+fim,['fim'],1,fim,1,fim,f,False,m,False
+fina,"['fi', 'na']",2,na,2,fi,f,False,a,True
+finado,"['fi', 'na', 'do']",3,do,2,na,f,False,o,True
+final,"['fi', 'nal']",2,nal,1,nal,f,False,l,False
+finalmente,"['fi', 'nal', 'men', 'te']",4,te,2,men,f,False,e,True
+fino,"['fi', 'no']",2,no,2,fi,f,False,o,True
+fique,"['fi', 'que']",2,que,2,fi,f,False,e,True
+fiquei,"['fi', 'quei']",2,quei,1,quei,f,False,i,True
+firme,"['fir', 'me']",2,me,2,fir,f,False,e,True
+fisionomia,"['fi', 'si', 'o', 'no', 'mi', 'a']",6,a,2,mi,f,False,a,True
+fita,"['fi', 'ta']",2,ta,2,fi,f,False,a,True
+fiz,['fiz'],1,fiz,1,fiz,f,False,z,False
+fizera,"['fi', 'ze', 'ra']",3,ra,2,ze,f,False,a,True
+fizeram,"['fi', 'ze', 'ram']",3,ram,2,ze,f,False,m,False
+fizesse,"['fi', 'zes', 'se']",3,se,2,zes,f,False,e,True
+flor,['flor'],1,flor,1,flor,f,False,r,False
+flora,"['flo', 'ra']",2,ra,2,flo,f,False,a,True
+flores,"['flo', 'res']",2,res,2,flo,f,False,s,False
+fluminense,"['flu', 'mi', 'nen', 'se']",4,se,2,nen,f,False,e,True
+fogo,"['fo', 'go']",2,go,2,fo,f,False,o,True
+foi,['foi'],1,foi,1,foi,f,False,i,True
+folha,"['fo', 'lha']",2,lha,2,fo,f,False,a,True
+folhas,"['fo', 'lhas']",2,lhas,2,fo,f,False,s,False
+folhetim,"['fo', 'lhe', 'tim']",3,tim,1,tim,f,False,m,False
+fome,"['fo', 'me']",2,me,2,fo,f,False,e,True
+fomos,"['fo', 'mos']",2,mos,2,fo,f,False,s,False
+for,['for'],1,for,1,for,f,False,r,False
+fora,"['fo', 'ra']",2,ra,2,fo,f,False,a,True
+foram,"['fo', 'ram']",2,ram,2,fo,f,False,m,False
+forma,"['for', 'ma']",2,ma,2,for,f,False,a,True
+formas,"['for', 'mas']",2,mas,2,for,f,False,s,False
+formosa,"['for', 'mo', 'sa']",3,sa,2,mo,f,False,a,True
+forte,"['for', 'te']",2,te,2,for,f,False,e,True
+fortes,"['for', 'tes']",2,tes,2,for,f,False,s,False
+fortuna,"['for', 'tu', 'na']",3,na,2,tu,f,False,a,True
+força,"['for', 'ça']",2,ça,2,for,f,False,a,True
+forças,"['for', 'ças']",2,ças,2,for,f,False,s,False
+fosse,"['fos', 'se']",2,se,2,fos,f,False,e,True
+fossem,"['fos', 'sem']",2,sem,2,fos,f,False,m,False
+francamente,"['fran', 'ca', 'men', 'te']",4,te,2,men,f,False,e,True
+francesa,"['fran', 'ce', 'sa']",3,sa,2,ce,f,False,a,True
+francisca,"['fran', 'cis', 'ca']",3,ca,2,cis,f,False,a,True
+francisco,"['fran', 'cis', 'co']",3,co,2,cis,f,False,o,True
+francês,"['fran', 'cês']",2,cês,1,cês,f,False,s,False
+franqueza,"['fran', 'que', 'za']",3,za,2,que,f,False,a,True
+frança,"['fran', 'ça']",2,ça,2,fran,f,False,a,True
+frase,"['fra', 'se']",2,se,2,fra,f,False,e,True
+frases,"['fra', 'ses']",2,ses,2,fra,f,False,s,False
+frente,"['fren', 'te']",2,te,2,fren,f,False,e,True
+fresca,"['fres', 'ca']",2,ca,2,fres,f,False,a,True
+fria,"['fri', 'a']",2,a,2,fri,f,False,a,True
+frio,"['fri', 'o']",2,o,2,fri,f,False,o,True
+fronte,"['fron', 'te']",2,te,2,fron,f,False,e,True
+fugir,"['fu', 'gir']",2,gir,1,gir,f,False,r,False
+fui,['fui'],1,fui,1,fui,f,False,i,True
+fundo,"['fun', 'do']",2,do,2,fun,f,False,o,True
+futuro,"['fu', 'tu', 'ro']",3,ro,2,tu,f,False,o,True
+fácil,"['fá', 'cil']",2,cil,2,fá,f,False,l,False
+fé,['fé'],1,fé,1,fé,f,False,é,True
+félix,"['fé', 'lix']",2,lix,2,fé,f,False,x,False
+gabinete,"['ga', 'bi', 'ne', 'te']",4,te,2,ne,g,False,e,True
+ganhar,"['ga', 'nhar']",2,nhar,1,nhar,g,False,r,False
+garcia,"['gar', 'ci', 'a']",3,a,2,ci,g,False,a,True
+gaspar,"['gas', 'par']",2,par,1,par,g,False,r,False
+gazeta,"['ga', 'ze', 'ta']",3,ta,2,ze,g,False,a,True
+genro,"['gen', 'ro']",2,ro,2,gen,g,False,o,True
+gente,"['gen', 'te']",2,te,2,gen,g,False,e,True
+geral,"['ge', 'ral']",2,ral,1,ral,g,False,l,False
+geralmente,"['ge', 'ral', 'men', 'te']",4,te,2,men,g,False,e,True
+geração,"['ge', 'ra', 'ção']",3,ção,1,ção,g,False,o,True
+gesto,"['ges', 'to']",2,to,2,ges,g,False,o,True
+gestos,"['ges', 'tos']",2,tos,2,ges,g,False,s,False
+ginásio,"['gi', 'ná', 'si', 'o']",4,o,3,ná,g,False,o,True
+glória,"['gló', 'ri', 'a']",3,a,3,gló,g,False,a,True
+golpe,"['gol', 'pe']",2,pe,2,gol,g,False,e,True
+gomes,"['go', 'mes']",2,mes,2,go,g,False,s,False
+gonçalves,"['gon', 'çal', 'ves']",3,ves,2,çal,g,False,s,False
+gosta,"['gos', 'ta']",2,ta,2,gos,g,False,a,True
+gostava,"['gos', 'ta', 'va']",3,va,2,ta,g,False,a,True
+gosto,"['gos', 'to']",2,to,2,gos,g,False,o,True
+governo,"['go', 'ver', 'no']",3,no,2,ver,g,False,o,True
+graciosa,"['gra', 'ci', 'o', 'sa']",4,sa,2,o,g,False,a,True
+grande,"['gran', 'de']",2,de,2,gran,g,False,e,True
+grandes,"['gran', 'des']",2,des,2,gran,g,False,s,False
+grandeza,"['gran', 'de', 'za']",3,za,2,de,g,False,a,True
+grave,"['gra', 've']",2,ve,2,gra,g,False,e,True
+graves,"['gra', 'ves']",2,ves,2,gra,g,False,s,False
+gravidade,"['gra', 'vi', 'da', 'de']",4,de,2,da,g,False,e,True
+graça,"['gra', 'ça']",2,ça,2,gra,g,False,a,True
+graças,"['gra', 'ças']",2,ças,2,gra,g,False,s,False
+grito,"['gri', 'to']",2,to,2,gri,g,False,o,True
+grupo,"['gru', 'po']",2,po,2,gru,g,False,o,True
+guarda,"['guar', 'da']",2,da,2,guar,g,False,a,True
+guerra,"['guer', 'ra']",2,ra,2,guer,g,False,a,True
+guiomar,"['gui', 'o', 'mar']",3,mar,1,mar,g,False,r,False
+gênero,"['gê', 'ne', 'ro']",3,ro,3,gê,g,False,o,True
+gênio,"['gê', 'ni', 'o']",3,o,3,gê,g,False,o,True
+haja,"['ha', 'ja']",2,ja,2,ha,h,True,a,True
+harmonia,"['har', 'mo', 'ni', 'a']",4,a,2,ni,h,True,a,True
+haver,"['ha', 'ver']",2,ver,1,ver,h,True,r,False
+haverá,"['ha', 've', 'rá']",3,rá,1,rá,h,True,á,True
+havia,"['ha', 'vi', 'a']",3,a,2,vi,h,True,a,True
+haviam,"['ha', 'vi', 'am']",3,am,2,vi,h,True,m,False
+hei,['hei'],1,hei,1,hei,h,True,i,True
+helena,"['he', 'le', 'na']",3,na,2,le,h,True,a,True
+henrique,"['hen', 'ri', 'que']",3,que,2,ri,h,True,e,True
+henriqueta,"['hen', 'ri', 'que', 'ta']",4,ta,2,que,h,True,a,True
+herança,"['he', 'ran', 'ça']",3,ça,2,ran,h,True,a,True
+herói,"['he', 'rói']",2,rói,1,rói,h,True,i,True
+hesitou,"['he', 'si', 'tou']",3,tou,1,tou,h,True,u,True
+hipótese,"['hi', 'pó', 'te', 'se']",4,se,3,pó,h,True,e,True
+história,"['his', 'tó', 'ri', 'a']",4,a,3,tó,h,True,a,True
+hoje,"['ho', 'je']",2,je,2,ho,h,True,e,True
+homem,"['ho', 'mem']",2,mem,2,ho,h,True,m,False
+homens,"['ho', 'mens']",2,mens,2,ho,h,True,s,False
+honra,"['hon', 'ra']",2,ra,2,hon,h,True,a,True
+hora,"['ho', 'ra']",2,ra,2,ho,h,True,a,True
+horas,"['ho', 'ras']",2,ras,2,ho,h,True,s,False
+horizonte,"['ho', 'ri', 'zon', 'te']",4,te,2,zon,h,True,e,True
+horror,"['hor', 'ror']",2,ror,1,ror,h,True,r,False
+hotel,"['ho', 'tel']",2,tel,1,tel,h,True,l,False
+houve,"['hou', 've']",2,ve,2,hou,h,True,e,True
+houvesse,"['hou', 'ves', 'se']",3,se,2,ves,h,True,e,True
+humana,"['hu', 'ma', 'na']",3,na,2,ma,h,True,a,True
+humanas,"['hu', 'ma', 'nas']",3,nas,2,ma,h,True,s,False
+humanidade,"['hu', 'ma', 'ni', 'da', 'de']",5,de,2,da,h,True,e,True
+humano,"['hu', 'ma', 'no']",3,no,2,ma,h,True,o,True
+há,['há'],1,há,1,há,h,True,á,True
+hábitos,"['há', 'bi', 'tos']",3,tos,3,há,h,True,s,False
+hás,['hás'],1,hás,1,hás,h,True,s,False
+hão,['hão'],1,hão,1,hão,h,True,o,True
+ia,"['i', 'a']",2,a,2,i,i,True,a,True
+iaiá,"['i', 'a', 'i', 'á']",4,á,1,á,i,True,á,True
+iam,"['i', 'am']",2,am,2,i,i,True,m,False
+idade,"['i', 'da', 'de']",3,de,2,da,i,True,e,True
+ideal,"['i', 'de', 'al']",3,al,1,al,i,True,l,False
+ido,"['i', 'do']",2,do,2,i,i,True,o,True
+idéia,"['i', 'dé', 'i', 'a']",4,a,3,dé,i,True,a,True
+idéias,"['i', 'dé', 'i', 'as']",4,as,3,dé,i,True,s,False
+igreja,"['i', 'gre', 'ja']",3,ja,2,gre,i,True,a,True
+iguais,"['i', 'guai', 's']",3,s,2,guai,i,True,s,False
+igual,"['i', 'gua', 'l']",3,l,2,gua,i,True,l,False
+igualmente,"['i', 'gua', 'l', 'men', 'te']",5,te,2,men,i,True,e,True
+ii,['ii'],1,ii,1,ii,i,True,i,True
+iii,"['i', 'ii']",2,ii,1,ii,i,True,i,True
+ilha,"['i', 'lha']",2,lha,2,i,i,True,a,True
+ilustre,"['i', 'lus', 'tre']",3,tre,2,lus,i,True,e,True
+ilusão,"['i', 'lu', 'são']",3,são,1,são,i,True,o,True
+ilusões,"['i', 'lu', 'sões']",3,sões,1,sões,i,True,s,False
+imagem,"['i', 'ma', 'gem']",3,gem,2,ma,i,True,m,False
+imagina,"['i', 'ma', 'gi', 'na']",4,na,2,gi,i,True,a,True
+imaginação,"['i', 'ma', 'gi', 'na', 'ção']",5,ção,1,ção,i,True,o,True
+imediatamente,"['i', 'me', 'di', 'a', 'ta', 'men', 'te']",7,te,2,men,i,True,e,True
+imenso,"['i', 'men', 'so']",3,so,2,men,i,True,o,True
+imperador,"['im', 'pe', 'ra', 'dor']",4,dor,1,dor,i,True,r,False
+importa,"['im', 'por', 'ta']",3,ta,2,por,i,True,a,True
+importante,"['im', 'por', 'tan', 'te']",4,te,2,tan,i,True,e,True
+impossível,"['im', 'pos', 'sí', 'vel']",4,vel,2,sí,i,True,l,False
+imprensa,"['im', 'pren', 'sa']",3,sa,2,pren,i,True,a,True
+impressão,"['im', 'pres', 'são']",3,são,1,são,i,True,o,True
+impressões,"['im', 'pres', 'sões']",3,sões,1,sões,i,True,s,False
+império,"['im', 'pé', 'ri', 'o']",4,o,3,pé,i,True,o,True
+incidente,"['in', 'ci', 'den', 'te']",4,te,2,den,i,True,e,True
+inda,"['in', 'da']",2,da,2,in,i,True,a,True
+indiferente,"['in', 'di', 'fe', 'ren', 'te']",5,te,2,ren,i,True,e,True
+indiferença,"['in', 'di', 'fe', 'ren', 'ça']",5,ça,2,ren,i,True,a,True
+indignação,"['in', 'dig', 'na', 'ção']",4,ção,1,ção,i,True,o,True
+indo,"['in', 'do']",2,do,2,in,i,True,o,True
+infeliz,"['in', 'fe', 'liz']",3,liz,1,liz,i,True,z,False
+infinito,"['in', 'fi', 'ni', 'to']",4,to,2,ni,i,True,o,True
+influência,"['in', 'flu', 'ên', 'ci', 'a']",5,a,3,ên,i,True,a,True
+infância,"['in', 'fân', 'ci', 'a']",4,a,3,fân,i,True,a,True
+inglaterra,"['in', 'gla', 'ter', 'ra']",4,ra,2,ter,i,True,a,True
+inglesa,"['in', 'gle', 'sa']",3,sa,2,gle,i,True,a,True
+inglês,"['in', 'glês']",2,glês,1,glês,i,True,s,False
+inimigo,"['i', 'ni', 'mi', 'go']",4,go,2,mi,i,True,o,True
+insistiu,"['in', 'sis', 'ti', 'u']",4,u,2,ti,i,True,u,True
+inspiração,"['ins', 'pi', 'ra', 'ção']",4,ção,1,ção,i,True,o,True
+instante,"['ins', 'tan', 'te']",3,te,2,tan,i,True,e,True
+instantes,"['ins', 'tan', 'tes']",3,tes,2,tan,i,True,s,False
+instituição,"['ins', 'ti', 'tui', 'ção']",4,ção,1,ção,i,True,o,True
+inteira,"['in', 'tei', 'ra']",3,ra,2,tei,i,True,a,True
+inteiramente,"['in', 'tei', 'ra', 'men', 'te']",5,te,2,men,i,True,e,True
+inteiro,"['in', 'tei', 'ro']",3,ro,2,tei,i,True,o,True
+inteligência,"['in', 'te', 'li', 'gên', 'ci', 'a']",6,a,3,gên,i,True,a,True
+intenção,"['in', 'ten', 'ção']",3,ção,1,ção,i,True,o,True
+interessante,"['in', 'te', 'res', 'san', 'te']",5,te,2,san,i,True,e,True
+interesse,"['in', 'te', 'res', 'se']",4,se,2,res,i,True,e,True
+interesses,"['in', 'te', 'res', 'ses']",4,ses,2,res,i,True,s,False
+interior,"['in', 'te', 'ri', 'or']",4,or,1,or,i,True,r,False
+interrompeu,"['in', 'ter', 'rom', 'peu']",4,peu,1,peu,i,True,u,True
+intimidade,"['in', 'ti', 'mi', 'da', 'de']",5,de,2,da,i,True,e,True
+inveja,"['in', 've', 'ja']",3,ja,2,ve,i,True,a,True
+invenção,"['in', 'ven', 'ção']",3,ção,1,ção,i,True,o,True
+inútil,"['i', 'nú', 'til']",3,til,2,nú,i,True,l,False
+ir,['ir'],1,ir,1,ir,i,True,r,False
+irei,"['i', 'rei']",2,rei,1,rei,i,True,i,True
+iria,"['i', 'ri', 'a']",3,a,2,ri,i,True,a,True
+irmã,"['ir', 'mã']",2,mã,1,mã,i,True,ã,True
+irmão,"['ir', 'mão']",2,mão,1,mão,i,True,o,True
+irmãos,"['ir', 'mãos']",2,mãos,1,mãos,i,True,s,False
+isabel,"['i', 'sa', 'bel']",3,bel,1,bel,i,True,l,False
+isso,"['is', 'so']",2,so,2,is,i,True,o,True
+isto,"['is', 'to']",2,to,2,is,i,True,o,True
+jamais,"['ja', 'ma', 'is']",3,is,2,ma,j,False,s,False
+janeiro,"['ja', 'nei', 'ro']",3,ro,2,nei,j,False,o,True
+janela,"['ja', 'ne', 'la']",3,la,2,ne,j,False,a,True
+janelas,"['ja', 'ne', 'las']",3,las,2,ne,j,False,s,False
+jantar,"['jan', 'tar']",2,tar,1,tar,j,False,r,False
+jardim,"['jar', 'dim']",2,dim,1,dim,j,False,m,False
+jesus,"['je', 'sus']",2,sus,1,sus,j,False,s,False
+joana,"['joa', 'na']",2,na,2,joa,j,False,a,True
+joelhos,"['joe', 'lhos']",2,lhos,2,joe,j,False,s,False
+jogo,"['jo', 'go']",2,go,2,jo,j,False,o,True
+jorge,"['jor', 'ge']",2,ge,2,jor,j,False,e,True
+jornais,"['jor', 'na', 'is']",3,is,2,na,j,False,s,False
+jornal,"['jor', 'nal']",2,nal,1,nal,j,False,l,False
+josé,"['jo', 'sé']",2,sé,1,sé,j,False,é,True
+jovem,"['jo', 'vem']",2,vem,2,jo,j,False,m,False
+joão,"['jo', 'ão']",2,ão,1,ão,j,False,o,True
+judeu,"['ju', 'deu']",2,deu,1,deu,j,False,u,True
+juiz,['juiz'],1,juiz,1,juiz,j,False,z,False
+julião,"['ju', 'li', 'ão']",3,ão,1,ão,j,False,o,True
+junho,"['ju', 'nho']",2,nho,2,ju,j,False,o,True
+junto,"['jun', 'to']",2,to,2,jun,j,False,o,True
+juntos,"['jun', 'tos']",2,tos,2,jun,j,False,s,False
+juro,"['ju', 'ro']",2,ro,2,ju,j,False,o,True
+justamente,"['jus', 'ta', 'men', 'te']",4,te,2,men,j,False,e,True
+justiça,"['jus', 'ti', 'ça']",3,ça,2,ti,j,False,a,True
+justo,"['jus', 'to']",2,to,2,jus,j,False,o,True
+juízo,"['ju', 'í', 'zo']",3,zo,2,í,j,False,o,True
+já,['já'],1,já,1,já,j,False,á,True
+júlia,"['jú', 'li', 'a']",3,a,3,jú,j,False,a,True
+la,['la'],1,la,1,la,l,False,a,True
+lado,"['la', 'do']",2,do,2,la,l,False,o,True
+lados,"['la', 'dos']",2,dos,2,la,l,False,s,False
+lance,"['lan', 'ce']",2,ce,2,lan,l,False,e,True
+lançou,"['lan', 'çou']",2,çou,1,çou,l,False,u,True
+larga,"['lar', 'ga']",2,ga,2,lar,l,False,a,True
+largo,"['lar', 'go']",2,go,2,lar,l,False,o,True
+le,['le'],1,le,1,le,l,False,e,True
+lei,['lei'],1,lei,1,lei,l,False,i,True
+leis,['leis'],1,leis,1,leis,l,False,s,False
+leito,"['lei', 'to']",2,to,2,lei,l,False,o,True
+leitor,"['lei', 'tor']",2,tor,1,tor,l,False,r,False
+leitora,"['lei', 'to', 'ra']",3,ra,2,to,l,False,a,True
+leitores,"['lei', 'to', 'res']",3,res,2,to,l,False,s,False
+leitura,"['lei', 'tu', 'ra']",3,ra,2,tu,l,False,a,True
+lembra,"['lem', 'bra']",2,bra,2,lem,l,False,a,True
+lembrança,"['lem', 'bran', 'ça']",3,ça,2,bran,l,False,a,True
+lembranças,"['lem', 'bran', 'ças']",3,ças,2,bran,l,False,s,False
+lembrar,"['lem', 'brar']",2,brar,1,brar,l,False,r,False
+lembrou,"['lem', 'brou']",2,brou,1,brou,l,False,u,True
+lemos,"['le', 'mos']",2,mos,2,le,l,False,s,False
+lendo,"['len', 'do']",2,do,2,len,l,False,o,True
+lentamente,"['len', 'ta', 'men', 'te']",4,te,2,men,l,False,e,True
+lenço,"['len', 'ço']",2,ço,2,len,l,False,o,True
+leocádia,"['le', 'o', 'cá', 'di', 'a']",5,a,3,cá,l,False,a,True
+leonor,"['le', 'o', 'nor']",3,nor,1,nor,l,False,r,False
+ler,['ler'],1,ler,1,ler,l,False,r,False
+letra,"['le', 'tra']",2,tra,2,le,l,False,a,True
+letras,"['le', 'tras']",2,tras,2,le,l,False,s,False
+leu,['leu'],1,leu,1,leu,l,False,u,True
+leva,"['le', 'va']",2,va,2,le,l,False,a,True
+levado,"['le', 'va', 'do']",3,do,2,va,l,False,o,True
+levantar,"['le', 'van', 'tar']",3,tar,1,tar,l,False,r,False
+levantou,"['le', 'van', 'tou']",3,tou,1,tou,l,False,u,True
+levar,"['le', 'var']",2,var,1,var,l,False,r,False
+levava,"['le', 'va', 'va']",3,va,2,va,l,False,a,True
+leve,"['le', 've']",2,ve,2,le,l,False,e,True
+levou,"['le', 'vou']",2,vou,1,vou,l,False,u,True
+leão,['leão'],1,leão,1,leão,l,False,o,True
+lhe,['lhe'],1,lhe,1,lhe,l,False,e,True
+lhes,['lhes'],1,lhes,1,lhes,l,False,s,False
+lho,['lho'],1,lho,1,lho,l,False,o,True
+li,['li'],1,li,1,li,l,False,i,True
+lia,"['li', 'a']",2,a,2,li,l,False,a,True
+liberdade,"['li', 'ber', 'da', 'de']",4,de,2,da,l,False,e,True
+licença,"['li', 'cen', 'ça']",3,ça,2,cen,l,False,a,True
+lido,"['li', 'do']",2,do,2,li,l,False,o,True
+lima,"['li', 'ma']",2,ma,2,li,l,False,a,True
+linda,"['lin', 'da']",2,da,2,lin,l,False,a,True
+linguagem,"['lin', 'gua', 'gem']",3,gem,2,gua,l,False,m,False
+linha,"['li', 'nha']",2,nha,2,li,l,False,a,True
+linhas,"['li', 'nhas']",2,nhas,2,li,l,False,s,False
+lisboa,"['lis', 'boa']",2,boa,1,boa,l,False,a,True
+literatura,"['li', 'te', 'ra', 'tu', 'ra']",5,ra,2,tu,l,False,a,True
+literária,"['li', 'te', 'rá', 'ri', 'a']",5,a,3,rá,l,False,a,True
+literário,"['li', 'te', 'rá', 'ri', 'o']",5,o,3,rá,l,False,o,True
+livre,"['li', 'vre']",2,vre,2,li,l,False,e,True
+livro,"['li', 'vro']",2,vro,2,li,l,False,o,True
+livros,"['li', 'vros']",2,vros,2,li,l,False,s,False
+lição,"['li', 'ção']",2,ção,1,ção,l,False,o,True
+logo,"['lo', 'go']",2,go,2,lo,l,False,o,True
+loja,"['lo', 'ja']",2,ja,2,lo,l,False,a,True
+londres,"['lon', 'dres']",2,dres,2,lon,l,False,s,False
+longa,"['lon', 'ga']",2,ga,2,lon,l,False,a,True
+longas,"['lon', 'gas']",2,gas,2,lon,l,False,s,False
+longe,"['lon', 'ge']",2,ge,2,lon,l,False,e,True
+longo,"['lon', 'go']",2,go,2,lon,l,False,o,True
+longos,"['lon', 'gos']",2,gos,2,lon,l,False,s,False
+loteria,"['lo', 'te', 'ri', 'a']",4,a,2,ri,l,False,a,True
+loucura,"['lou', 'cu', 'ra']",3,ra,2,cu,l,False,a,True
+lua,['lua'],1,lua,1,lua,l,False,a,True
+lugar,"['lu', 'gar']",2,gar,1,gar,l,False,r,False
+lugares,"['lu', 'ga', 'res']",3,res,2,ga,l,False,s,False
+luiza,"['lui', 'za']",2,za,2,lui,l,False,a,True
+lulu,"['lu', 'lu']",2,lu,2,lu,l,False,u,True
+luta,"['lu', 'ta']",2,ta,2,lu,l,False,a,True
+luxo,"['lu', 'xo']",2,xo,2,lu,l,False,o,True
+luz,['luz'],1,luz,1,luz,l,False,z,False
+luís,"['lu', 'ís']",2,ís,1,ís,l,False,s,False
+luísa,"['lu', 'í', 'sa']",3,sa,2,í,l,False,a,True
+lá,['lá'],1,lá,1,lá,l,False,á,True
+lábios,"['lá', 'bi', 'os']",3,os,3,lá,l,False,s,False
+lágrima,"['lá', 'gri', 'ma']",3,ma,3,lá,l,False,a,True
+lágrimas,"['lá', 'gri', 'mas']",3,mas,3,lá,l,False,s,False
+lê,['lê'],1,lê,1,lê,l,False,ê,True
+língua,"['lín', 'gua']",2,gua,2,lín,l,False,a,True
+lírico,"['lí', 'ri', 'co']",3,co,3,lí,l,False,o,True
+lívia,"['lí', 'vi', 'a']",3,a,3,lí,l,False,a,True
+lúcia,"['lú', 'ci', 'a']",3,a,3,lú,l,False,a,True
+macedo,"['ma', 'ce', 'do']",3,do,2,ce,m,False,o,True
+machado,"['ma', 'cha', 'do']",3,do,2,cha,m,False,o,True
+madalena,"['ma', 'da', 'le', 'na']",4,na,2,le,m,False,a,True
+madrinha,"['ma', 'dri', 'nha']",3,nha,2,dri,m,False,a,True
+madrugada,"['ma', 'dru', 'ga', 'da']",4,da,2,ga,m,False,a,True
+magalhães,"['ma', 'ga', 'lhães']",3,lhães,1,lhães,m,False,s,False
+magro,"['ma', 'gro']",2,gro,2,ma,m,False,o,True
+maior,"['ma', 'i', 'or']",3,or,1,or,m,False,r,False
+maiores,"['ma', 'i', 'o', 'res']",4,res,2,o,m,False,s,False
+mais,"['ma', 'is']",2,is,2,ma,m,False,s,False
+major,"['ma', 'jor']",2,jor,1,jor,m,False,r,False
+mal,['mal'],1,mal,1,mal,m,False,l,False
+malvina,"['mal', 'vi', 'na']",3,na,2,vi,m,False,a,True
+mamãe,"['ma', 'mãe']",2,mãe,1,mãe,m,False,e,True
+mana,"['ma', 'na']",2,na,2,ma,m,False,a,True
+manda,"['man', 'da']",2,da,2,man,m,False,a,True
+mandar,"['man', 'dar']",2,dar,1,dar,m,False,r,False
+mandou,"['man', 'dou']",2,dou,1,dou,m,False,u,True
+maneira,"['ma', 'nei', 'ra']",3,ra,2,nei,m,False,a,True
+maneiras,"['ma', 'nei', 'ras']",3,ras,2,nei,m,False,s,False
+manhã,"['ma', 'nhã']",2,nhã,1,nhã,m,False,ã,True
+manuel,"['ma', 'nuel']",2,nuel,1,nuel,m,False,l,False
+mar,['mar'],1,mar,1,mar,m,False,r,False
+marcelina,"['mar', 'ce', 'li', 'na']",4,na,2,li,m,False,a,True
+margarida,"['mar', 'ga', 'ri', 'da']",4,da,2,ri,m,False,a,True
+maria,"['ma', 'ri', 'a']",3,a,2,ri,m,False,a,True
+mariana,"['ma', 'ri', 'a', 'na']",4,na,2,a,m,False,a,True
+marido,"['ma', 'ri', 'do']",3,do,2,ri,m,False,o,True
+marques,"['mar', 'ques']",2,ques,2,mar,m,False,s,False
+martins,"['mar', 'tins']",2,tins,1,tins,m,False,s,False
+março,"['mar', 'ço']",2,ço,2,mar,m,False,o,True
+mas,['mas'],1,mas,1,mas,m,False,s,False
+matar,"['ma', 'tar']",2,tar,1,tar,m,False,r,False
+mateus,"['ma', 'teus']",2,teus,1,teus,m,False,s,False
+mathilde,"['ma', 'thil', 'de']",3,de,2,thil,m,False,e,True
+matéria,"['ma', 'té', 'ri', 'a']",4,a,3,té,m,False,a,True
+mau,['mau'],1,mau,1,mau,m,False,u,True
+me,['me'],1,me,1,me,m,False,e,True
+medicina,"['me', 'di', 'ci', 'na']",4,na,2,ci,m,False,a,True
+medida,"['me', 'di', 'da']",3,da,2,di,m,False,a,True
+medo,"['me', 'do']",2,do,2,me,m,False,o,True
+meia,"['mei', 'a']",2,a,2,mei,m,False,a,True
+meio,"['mei', 'o']",2,o,2,mei,m,False,o,True
+meios,"['mei', 'os']",2,os,2,mei,m,False,s,False
+melancolia,"['me', 'lan', 'co', 'li', 'a']",5,a,2,li,m,False,a,True
+melchior,"['mel', 'chi', 'or']",3,or,1,or,m,False,r,False
+melhor,"['me', 'lhor']",2,lhor,1,lhor,m,False,r,False
+melhores,"['me', 'lho', 'res']",3,res,2,lho,m,False,s,False
+memória,"['me', 'mó', 'ri', 'a']",4,a,3,mó,m,False,a,True
+mendonça,"['men', 'don', 'ça']",3,ça,2,don,m,False,a,True
+meneses,"['me', 'ne', 'ses']",3,ses,2,ne,m,False,s,False
+menina,"['me', 'ni', 'na']",3,na,2,ni,m,False,a,True
+menino,"['me', 'ni', 'no']",3,no,2,ni,m,False,o,True
+meninos,"['me', 'ni', 'nos']",3,nos,2,ni,m,False,s,False
+menor,"['me', 'nor']",2,nor,1,nor,m,False,r,False
+menos,"['me', 'nos']",2,nos,2,me,m,False,s,False
+merece,"['me', 're', 'ce']",3,ce,2,re,m,False,e,True
+mesa,"['me', 'sa']",2,sa,2,me,m,False,a,True
+meses,"['me', 'ses']",2,ses,2,me,m,False,s,False
+mesma,"['mes', 'ma']",2,ma,2,mes,m,False,a,True
+mesmas,"['mes', 'mas']",2,mas,2,mes,m,False,s,False
+mesmo,"['mes', 'mo']",2,mo,2,mes,m,False,o,True
+mesmos,"['mes', 'mos']",2,mos,2,mes,m,False,s,False
+mess,['mess'],1,mess,1,mess,m,False,s,False
+mestre,"['mes', 'tre']",2,tre,2,mes,m,False,e,True
+metade,"['me', 'ta', 'de']",3,de,2,ta,m,False,e,True
+meter,"['me', 'ter']",2,ter,1,ter,m,False,r,False
+meteu,"['me', 'teu']",2,teu,1,teu,m,False,u,True
+meu,['meu'],1,meu,1,meu,m,False,u,True
+meus,['meus'],1,meus,1,meus,m,False,s,False
+mil,['mil'],1,mil,1,mil,m,False,l,False
+milagre,"['mi', 'la', 'gre']",3,gre,2,la,m,False,e,True
+mim,['mim'],1,mim,1,mim,m,False,m,False
+minas,"['mi', 'nas']",2,nas,2,mi,m,False,s,False
+minha,"['mi', 'nha']",2,nha,2,mi,m,False,a,True
+minhas,"['mi', 'nhas']",2,nhas,2,mi,m,False,s,False
+ministro,"['mi', 'nis', 'tro']",3,tro,2,nis,m,False,o,True
+ministros,"['mi', 'nis', 'tros']",3,tros,2,nis,m,False,s,False
+ministério,"['mi', 'nis', 'té', 'ri', 'o']",5,o,3,té,m,False,o,True
+minuto,"['mi', 'nu', 'to']",3,to,2,nu,m,False,o,True
+minutos,"['mi', 'nu', 'tos']",3,tos,2,nu,m,False,s,False
+mirto,"['mir', 'to']",2,to,2,mir,m,False,o,True
+missa,"['mis', 'sa']",2,sa,2,mis,m,False,a,True
+missão,"['mis', 'são']",2,são,1,são,m,False,o,True
+misteriosa,"['mis', 'te', 'ri', 'o', 'sa']",5,sa,2,o,m,False,a,True
+misterioso,"['mis', 'te', 'ri', 'o', 'so']",5,so,2,o,m,False,o,True
+mistério,"['mis', 'té', 'ri', 'o']",4,o,3,té,m,False,o,True
+miséria,"['mi', 'sé', 'ri', 'a']",4,a,3,sé,m,False,a,True
+mocidade,"['mo', 'ci', 'da', 'de']",4,de,2,da,m,False,e,True
+moda,"['mo', 'da']",2,da,2,mo,m,False,a,True
+modo,"['mo', 'do']",2,do,2,mo,m,False,o,True
+modos,"['mo', 'dos']",2,dos,2,mo,m,False,s,False
+modéstia,"['mo', 'dés', 'ti', 'a']",4,a,3,dés,m,False,a,True
+moleque,"['mo', 'le', 'que']",3,que,2,le,m,False,e,True
+moléstia,"['mo', 'lés', 'ti', 'a']",4,a,3,lés,m,False,a,True
+momento,"['mo', 'men', 'to']",3,to,2,men,m,False,o,True
+morais,"['mo', 'ra', 'is']",3,is,2,ra,m,False,s,False
+moral,"['mo', 'ral']",2,ral,1,ral,m,False,l,False
+morava,"['mo', 'ra', 'va']",3,va,2,ra,m,False,a,True
+morre,"['mor', 're']",2,re,2,mor,m,False,e,True
+morrer,"['mor', 'rer']",2,rer,1,rer,m,False,r,False
+morreu,"['mor', 'reu']",2,reu,1,reu,m,False,u,True
+morta,"['mor', 'ta']",2,ta,2,mor,m,False,a,True
+morte,"['mor', 'te']",2,te,2,mor,m,False,e,True
+morto,"['mor', 'to']",2,to,2,mor,m,False,o,True
+mortos,"['mor', 'tos']",2,tos,2,mor,m,False,s,False
+mostra,"['mos', 'tra']",2,tra,2,mos,m,False,a,True
+mostrar,"['mos', 'trar']",2,trar,1,trar,m,False,r,False
+mostrou,"['mos', 'trou']",2,trou,1,trou,m,False,u,True
+motivo,"['mo', 'ti', 'vo']",3,vo,2,ti,m,False,o,True
+motivos,"['mo', 'ti', 'vos']",3,vos,2,ti,m,False,s,False
+movimento,"['mo', 'vi', 'men', 'to']",4,to,2,men,m,False,o,True
+moça,"['mo', 'ça']",2,ça,2,mo,m,False,a,True
+moças,"['mo', 'ças']",2,ças,2,mo,m,False,s,False
+moço,"['mo', 'ço']",2,ço,2,mo,m,False,o,True
+mudança,"['mu', 'dan', 'ça']",3,ça,2,dan,m,False,a,True
+mudar,"['mu', 'dar']",2,dar,1,dar,m,False,r,False
+muita,"['mui', 'ta']",2,ta,2,mui,m,False,a,True
+muitas,"['mui', 'tas']",2,tas,2,mui,m,False,s,False
+muito,"['mui', 'to']",2,to,2,mui,m,False,o,True
+muitos,"['mui', 'tos']",2,tos,2,mui,m,False,s,False
+mulher,"['mu', 'lher']",2,lher,1,lher,m,False,r,False
+mulheres,"['mu', 'lhe', 'res']",3,res,2,lhe,m,False,s,False
+multidão,"['mul', 'ti', 'dão']",3,dão,1,dão,m,False,o,True
+mundo,"['mun', 'do']",2,do,2,mun,m,False,o,True
+municipal,"['mu', 'ni', 'ci', 'pal']",4,pal,1,pal,m,False,l,False
+murmurou,"['mur', 'mu', 'rou']",3,rou,1,rou,m,False,u,True
+musa,"['mu', 'sa']",2,sa,2,mu,m,False,a,True
+musas,"['mu', 'sas']",2,sas,2,mu,m,False,s,False
+má,['má'],1,má,1,má,m,False,á,True
+máquina,"['má', 'qui', 'na']",3,na,3,má,m,False,a,True
+máximo,"['má', 'xi', 'mo']",3,mo,3,má,m,False,o,True
+mãe,['mãe'],1,mãe,1,mãe,m,False,e,True
+mão,['mão'],1,mão,1,mão,m,False,o,True
+mãos,['mãos'],1,mãos,1,mãos,m,False,s,False
+médico,"['mé', 'di', 'co']",3,co,3,mé,m,False,o,True
+mérito,"['mé', 'ri', 'to']",3,to,3,mé,m,False,o,True
+mês,['mês'],1,mês,1,mês,m,False,s,False
+mônica,"['mô', 'ni', 'ca']",3,ca,3,mô,m,False,a,True
+música,"['músi', 'ca']",2,ca,2,músi,m,False,a,True
+na,['na'],1,na,1,na,n,False,a,True
+nacional,"['na', 'ci', 'o', 'nal']",4,nal,1,nal,n,False,l,False
+nada,"['na', 'da']",2,da,2,na,n,False,a,True
+namorado,"['na', 'mo', 'ra', 'do']",4,do,2,ra,n,False,o,True
+namorados,"['na', 'mo', 'ra', 'dos']",4,dos,2,ra,n,False,s,False
+namoro,"['na', 'mo', 'ro']",3,ro,2,mo,n,False,o,True
+nancy,"['nan', 'cy']",2,cy,2,nan,n,False,y,False
+naquela,"['na', 'que', 'la']",3,la,2,que,n,False,a,True
+naquele,"['na', 'que', 'le']",3,le,2,que,n,False,e,True
+nariz,"['na', 'riz']",2,riz,1,riz,n,False,z,False
+narração,"['nar', 'ra', 'ção']",3,ção,1,ção,n,False,o,True
+nas,['nas'],1,nas,1,nas,n,False,s,False
+nascer,"['nas', 'cer']",2,cer,1,cer,n,False,r,False
+nasceu,"['nas', 'ceu']",2,ceu,1,ceu,n,False,u,True
+natividade,"['na', 'ti', 'vi', 'da', 'de']",5,de,2,da,n,False,e,True
+naturais,"['na', 'tu', 'ra', 'is']",4,is,2,ra,n,False,s,False
+natural,"['na', 'tu', 'ral']",3,ral,1,ral,n,False,l,False
+naturalmente,"['na', 'tu', 'ral', 'men', 'te']",5,te,2,men,n,False,e,True
+natureza,"['na', 'tu', 're', 'za']",4,za,2,re,n,False,a,True
+navio,"['na', 'vi', 'o']",3,o,2,vi,n,False,o,True
+nação,"['na', 'ção']",2,ção,1,ção,n,False,o,True
+necessidade,"['ne', 'ces', 'si', 'da', 'de']",5,de,2,da,n,False,e,True
+necessária,"['ne', 'ces', 'sá', 'ri', 'a']",5,a,3,sá,n,False,a,True
+necessário,"['ne', 'ces', 'sá', 'ri', 'o']",5,o,3,sá,n,False,o,True
+negar,"['ne', 'gar']",2,gar,1,gar,n,False,r,False
+negócio,"['ne', 'gó', 'ci', 'o']",4,o,3,gó,n,False,o,True
+negócios,"['ne', 'gó', 'ci', 'os']",4,os,3,gó,n,False,s,False
+nela,"['ne', 'la']",2,la,2,ne,n,False,a,True
+nele,"['ne', 'le']",2,le,2,ne,n,False,e,True
+nem,['nem'],1,nem,1,nem,n,False,m,False
+nenhum,"['ne', 'nhum']",2,nhum,1,nhum,n,False,m,False
+nenhuma,"['ne', 'nhu', 'ma']",3,ma,2,nhu,n,False,a,True
+nessa,"['nes', 'sa']",2,sa,2,nes,n,False,a,True
+nessas,"['nes', 'sas']",2,sas,2,nes,n,False,s,False
+nesse,"['nes', 'se']",2,se,2,nes,n,False,e,True
+nesta,"['nes', 'ta']",2,ta,2,nes,n,False,a,True
+nestas,"['nes', 'tas']",2,tas,2,nes,n,False,s,False
+neste,"['nes', 'te']",2,te,2,nes,n,False,e,True
+nestes,"['nes', 'tes']",2,tes,2,nes,n,False,s,False
+neves,"['ne', 'ves']",2,ves,2,ne,n,False,s,False
+ninguém,"['nin', 'gu', 'ém']",3,ém,1,ém,n,False,m,False
+nisso,"['nis', 'so']",2,so,2,nis,n,False,o,True
+nisto,"['nis', 'to']",2,to,2,nis,n,False,o,True
+no,['no'],1,no,1,no,n,False,o,True
+nobre,"['no', 'bre']",2,bre,2,no,n,False,e,True
+noite,"['noi', 'te']",2,te,2,noi,n,False,e,True
+noites,"['noi', 'tes']",2,tes,2,noi,n,False,s,False
+noiva,"['noi', 'va']",2,va,2,noi,n,False,a,True
+noivo,"['noi', 'vo']",2,vo,2,noi,n,False,o,True
+noivos,"['noi', 'vos']",2,vos,2,noi,n,False,s,False
+nome,"['no', 'me']",2,me,2,no,n,False,e,True
+nomes,"['no', 'mes']",2,mes,2,no,n,False,s,False
+norte,"['nor', 'te']",2,te,2,nor,n,False,e,True
+nos,['nos'],1,nos,1,nos,n,False,s,False
+nossa,"['nos', 'sa']",2,sa,2,nos,n,False,a,True
+nossas,"['nos', 'sas']",2,sas,2,nos,n,False,s,False
+nosso,"['nos', 'so']",2,so,2,nos,n,False,o,True
+nossos,"['nos', 'sos']",2,sos,2,nos,n,False,s,False
+nota,"['no', 'ta']",2,ta,2,no,n,False,a,True
+notar,"['no', 'tar']",2,tar,1,tar,n,False,r,False
+notas,"['no', 'tas']",2,tas,2,no,n,False,s,False
+notícia,"['no', 'tí', 'ci', 'a']",4,a,3,tí,n,False,a,True
+notícias,"['no', 'tí', 'ci', 'as']",4,as,3,tí,n,False,s,False
+nova,"['no', 'va']",2,va,2,no,n,False,a,True
+novas,"['no', 'vas']",2,vas,2,no,n,False,s,False
+nove,"['no', 've']",2,ve,2,no,n,False,e,True
+novembro,"['no', 'vem', 'bro']",3,bro,2,vem,n,False,o,True
+novidade,"['no', 'vi', 'da', 'de']",4,de,2,da,n,False,e,True
+novo,"['no', 'vo']",2,vo,2,no,n,False,o,True
+novos,"['no', 'vos']",2,vos,2,no,n,False,s,False
+num,['num'],1,num,1,num,n,False,m,False
+numa,"['nu', 'ma']",2,ma,2,nu,n,False,a,True
+nunca,"['nun', 'ca']",2,ca,2,nun,n,False,a,True
+nuvem,"['nu', 'vem']",2,vem,2,nu,n,False,m,False
+nuvens,"['nu', 'vens']",2,vens,2,nu,n,False,s,False
+não,['não'],1,não,1,não,n,False,o,True
+nós,['nós'],1,nós,1,nós,n,False,s,False
+número,"['nú', 'me', 'ro']",3,ro,3,nú,n,False,o,True
+objeto,"['ob', 'je', 'to']",3,to,2,je,o,True,o,True
+objetos,"['ob', 'je', 'tos']",3,tos,2,je,o,True,s,False
+obra,"['o', 'bra']",2,bra,2,o,o,True,a,True
+obras,"['o', 'bras']",2,bras,2,o,o,True,s,False
+obrigado,"['o', 'bri', 'ga', 'do']",4,do,2,ga,o,True,o,True
+obrigação,"['o', 'bri', 'ga', 'ção']",4,ção,1,ção,o,True,o,True
+observação,"['ob', 'ser', 'va', 'ção']",4,ção,1,ção,o,True,o,True
+observou,"['ob', 'ser', 'vou']",3,vou,1,vou,o,True,u,True
+obstante,"['obs', 'tan', 'te']",3,te,2,tan,o,True,e,True
+obstáculo,"['obs', 'tá', 'cu', 'lo']",4,lo,3,tá,o,True,o,True
+obter,"['ob', 'ter']",2,ter,1,ter,o,True,r,False
+ocasião,"['o', 'ca', 'si', 'ão']",4,ão,1,ão,o,True,o,True
+ocasiões,"['o', 'ca', 'si', 'ões']",4,ões,1,ões,o,True,s,False
+oceano,"['o', 'ce', 'a', 'no']",4,no,2,a,o,True,o,True
+oficial,"['o', 'fi', 'ci', 'al']",4,al,1,al,o,True,l,False
+ofício,"['o', 'fí', 'ci', 'o']",4,o,3,fí,o,True,o,True
+oh,['oh'],1,oh,1,oh,o,True,h,False
+oito,"['oi', 'to']",2,to,2,oi,o,True,o,True
+olha,"['o', 'lha']",2,lha,2,o,o,True,a,True
+olhando,"['o', 'lhan', 'do']",3,do,2,lhan,o,True,o,True
+olhar,"['o', 'lhar']",2,lhar,1,lhar,o,True,r,False
+olhava,"['o', 'lha', 'va']",3,va,2,lha,o,True,a,True
+olhe,"['o', 'lhe']",2,lhe,2,o,o,True,e,True
+olho,"['o', 'lho']",2,lho,2,o,o,True,o,True
+olhos,"['o', 'lhos']",2,lhos,2,o,o,True,s,False
+olhou,"['o', 'lhou']",2,lhou,1,lhou,o,True,u,True
+oliveira,"['o', 'li', 'vei', 'ra']",4,ra,2,vei,o,True,a,True
+oliver,"['o', 'li', 'ver']",3,ver,1,ver,o,True,r,False
+ombros,"['om', 'bros']",2,bros,2,om,o,True,s,False
+onda,"['on', 'da']",2,da,2,on,o,True,a,True
+onde,"['on', 'de']",2,de,2,on,o,True,e,True
+ontem,"['on', 'tem']",2,tem,2,on,o,True,m,False
+onze,"['on', 'ze']",2,ze,2,on,o,True,e,True
+opinião,"['o', 'pi', 'ni', 'ão']",4,ão,1,ão,o,True,o,True
+opiniões,"['o', 'pi', 'ni', 'ões']",4,ões,1,ões,o,True,s,False
+oposição,"['o', 'po', 'si', 'ção']",4,ção,1,ção,o,True,o,True
+ora,"['o', 'ra']",2,ra,2,o,o,True,a,True
+orador,"['o', 'ra', 'dor']",3,dor,1,dor,o,True,r,False
+ordem,"['or', 'dem']",2,dem,2,or,o,True,m,False
+ordens,"['or', 'dens']",2,dens,2,or,o,True,s,False
+orgulho,"['or', 'gu', 'lho']",3,lho,2,gu,o,True,o,True
+origem,"['o', 'ri', 'gem']",3,gem,2,ri,o,True,m,False
+original,"['o', 'ri', 'gi', 'nal']",4,nal,1,nal,o,True,l,False
+originalmente,"['o', 'ri', 'gi', 'nal', 'men', 'te']",6,te,2,men,o,True,e,True
+os,['os'],1,os,1,os,o,True,s,False
+ou,['ou'],1,ou,1,ou,o,True,u,True
+ouro,"['ou', 'ro']",2,ro,2,ou,o,True,o,True
+outra,"['ou', 'tra']",2,tra,2,ou,o,True,a,True
+outras,"['ou', 'tras']",2,tras,2,ou,o,True,s,False
+outro,"['ou', 'tro']",2,tro,2,ou,o,True,o,True
+outrora,"['ou', 'tro', 'ra']",3,ra,2,tro,o,True,a,True
+outros,"['ou', 'tros']",2,tros,2,ou,o,True,s,False
+outubro,"['ou', 'tu', 'bro']",3,bro,2,tu,o,True,o,True
+ouve,"['ou', 've']",2,ve,2,ou,o,True,e,True
+ouvi,"['ou', 'vi']",2,vi,1,vi,o,True,i,True
+ouvia,"['ou', 'vi', 'a']",3,a,2,vi,o,True,a,True
+ouvido,"['ou', 'vi', 'do']",3,do,2,vi,o,True,o,True
+ouvidor,"['ou', 'vi', 'dor']",3,dor,1,dor,o,True,r,False
+ouvidos,"['ou', 'vi', 'dos']",3,dos,2,vi,o,True,s,False
+ouvindo,"['ou', 'vin', 'do']",3,do,2,vin,o,True,o,True
+ouvir,"['ou', 'vir']",2,vir,1,vir,o,True,r,False
+ouvira,"['ou', 'vi', 'ra']",3,ra,2,vi,o,True,a,True
+ouviu,"['ou', 'vi', 'u']",3,u,2,vi,o,True,u,True
+ouço,"['ou', 'ço']",2,ço,2,ou,o,True,o,True
+paciência,"['pa', 'ci', 'ên', 'ci', 'a']",5,a,3,ên,p,False,a,True
+padre,"['pa', 'dre']",2,dre,2,pa,p,False,e,True
+padrinho,"['pa', 'dri', 'nho']",3,nho,2,dri,p,False,o,True
+paga,"['pa', 'ga']",2,ga,2,pa,p,False,a,True
+pagar,"['pa', 'gar']",2,gar,1,gar,p,False,r,False
+pai,['pai'],1,pai,1,pai,p,False,i,True
+pais,"['pa', 'is']",2,is,2,pa,p,False,s,False
+paixão,"['pai', 'xão']",2,xão,1,xão,p,False,o,True
+paixões,"['pai', 'xões']",2,xões,1,xões,p,False,s,False
+palavra,"['pa', 'la', 'vra']",3,vra,2,la,p,False,a,True
+palavras,"['pa', 'la', 'vras']",3,vras,2,la,p,False,s,False
+palha,"['pa', 'lha']",2,lha,2,pa,p,False,a,True
+palmas,"['pal', 'mas']",2,mas,2,pal,p,False,s,False
+pano,"['pa', 'no']",2,no,2,pa,p,False,o,True
+pança,"['pan', 'ça']",2,ça,2,pan,p,False,a,True
+papai,"['pa', 'pai']",2,pai,1,pai,p,False,i,True
+papel,"['pa', 'pel']",2,pel,1,pel,p,False,l,False
+papéis,"['pa', 'péis']",2,péis,1,péis,p,False,s,False
+par,['par'],1,par,1,par,p,False,r,False
+para,"['pa', 'ra']",2,ra,2,pa,p,False,a,True
+parar,"['pa', 'rar']",2,rar,1,rar,p,False,r,False
+parece,"['pa', 're', 'ce']",3,ce,2,re,p,False,e,True
+parecem,"['pa', 're', 'cem']",3,cem,2,re,p,False,m,False
+parecer,"['pa', 're', 'cer']",3,cer,1,cer,p,False,r,False
+pareceu,"['pa', 're', 'ceu']",3,ceu,1,ceu,p,False,u,True
+parecia,"['pa', 're', 'ci', 'a']",4,a,2,ci,p,False,a,True
+pareciam,"['pa', 're', 'ci', 'am']",4,am,2,ci,p,False,m,False
+parede,"['pa', 're', 'de']",3,de,2,re,p,False,e,True
+paredes,"['pa', 're', 'des']",3,des,2,re,p,False,s,False
+parente,"['pa', 'ren', 'te']",3,te,2,ren,p,False,e,True
+parentes,"['pa', 'ren', 'tes']",3,tes,2,ren,p,False,s,False
+paris,"['pa', 'ris']",2,ris,1,ris,p,False,s,False
+parlamento,"['par', 'la', 'men', 'to']",4,to,2,men,p,False,o,True
+parou,"['pa', 'rou']",2,rou,1,rou,p,False,u,True
+parte,"['par', 'te']",2,te,2,par,p,False,e,True
+partes,"['par', 'tes']",2,tes,2,par,p,False,s,False
+particular,"['par', 'ti', 'cu', 'lar']",4,lar,1,lar,p,False,r,False
+partida,"['par', 'ti', 'da']",3,da,2,ti,p,False,a,True
+partido,"['par', 'ti', 'do']",3,do,2,ti,p,False,o,True
+partidos,"['par', 'ti', 'dos']",3,dos,2,ti,p,False,s,False
+partir,"['par', 'tir']",2,tir,1,tir,p,False,r,False
+passa,"['pas', 'sa']",2,sa,2,pas,p,False,a,True
+passada,"['pas', 'sa', 'da']",3,da,2,sa,p,False,a,True
+passado,"['pas', 'sa', 'do']",3,do,2,sa,p,False,o,True
+passagem,"['pas', 'sa', 'gem']",3,gem,2,sa,p,False,m,False
+passam,"['pas', 'sam']",2,sam,2,pas,p,False,m,False
+passando,"['pas', 'san', 'do']",3,do,2,san,p,False,o,True
+passar,"['pas', 'sar']",2,sar,1,sar,p,False,r,False
+passara,"['pas', 'sa', 'ra']",3,ra,2,sa,p,False,a,True
+passaram,"['pas', 'sa', 'ram']",3,ram,2,sa,p,False,m,False
+passava,"['pas', 'sa', 'va']",3,va,2,sa,p,False,a,True
+passear,"['pas', 'se', 'ar']",3,ar,1,ar,p,False,r,False
+passeio,"['pas', 'sei', 'o']",3,o,2,sei,p,False,o,True
+passo,"['pas', 'so']",2,so,2,pas,p,False,o,True
+passos,"['pas', 'sos']",2,sos,2,pas,p,False,s,False
+passou,"['pas', 'sou']",2,sou,1,sou,p,False,u,True
+pau,['pau'],1,pau,1,pau,p,False,u,True
+paula,"['pau', 'la']",2,la,2,pau,p,False,a,True
+paulo,"['pau', 'lo']",2,lo,2,pau,p,False,o,True
+pausa,"['pau', 'sa']",2,sa,2,pau,p,False,a,True
+paz,['paz'],1,paz,1,paz,p,False,z,False
+país,"['pa', 'ís']",2,ís,1,ís,p,False,s,False
+pecado,"['pe', 'ca', 'do']",3,do,2,ca,p,False,o,True
+pedaço,"['pe', 'da', 'ço']",3,ço,2,da,p,False,o,True
+pedaços,"['pe', 'da', 'ços']",3,ços,2,da,p,False,s,False
+pede,"['pe', 'de']",2,de,2,pe,p,False,e,True
+pedia,"['pe', 'di', 'a']",3,a,2,di,p,False,a,True
+pedido,"['pe', 'di', 'do']",3,do,2,di,p,False,o,True
+pedindo,"['pe', 'din', 'do']",3,do,2,din,p,False,o,True
+pedir,"['pe', 'dir']",2,dir,1,dir,p,False,r,False
+pediu,"['pe', 'di', 'u']",3,u,2,di,p,False,u,True
+pedra,"['pe', 'dra']",2,dra,2,pe,p,False,a,True
+pedras,"['pe', 'dras']",2,dras,2,pe,p,False,s,False
+pedro,"['pe', 'dro']",2,dro,2,pe,p,False,o,True
+pegou,"['pe', 'gou']",2,gou,1,gou,p,False,u,True
+peito,"['pei', 'to']",2,to,2,pei,p,False,o,True
+pela,"['pe', 'la']",2,la,2,pe,p,False,a,True
+pelas,"['pe', 'las']",2,las,2,pe,p,False,s,False
+pelo,"['pe', 'lo']",2,lo,2,pe,p,False,o,True
+pelos,"['pe', 'los']",2,los,2,pe,p,False,s,False
+pena,"['pe', 'na']",2,na,2,pe,p,False,a,True
+pensa,"['pen', 'sa']",2,sa,2,pen,p,False,a,True
+pensamento,"['pen', 'sa', 'men', 'to']",4,to,2,men,p,False,o,True
+pensamentos,"['pen', 'sa', 'men', 'tos']",4,tos,2,men,p,False,s,False
+pensando,"['pen', 'san', 'do']",3,do,2,san,p,False,o,True
+pensar,"['pen', 'sar']",2,sar,1,sar,p,False,r,False
+pensava,"['pen', 'sa', 'va']",3,va,2,sa,p,False,a,True
+pensei,"['pen', 'sei']",2,sei,1,sei,p,False,i,True
+penso,"['pen', 'so']",2,so,2,pen,p,False,o,True
+pensou,"['pen', 'sou']",2,sou,1,sou,p,False,u,True
+pequena,"['pe', 'que', 'na']",3,na,2,que,p,False,a,True
+pequeno,"['pe', 'que', 'no']",3,no,2,que,p,False,o,True
+pequenos,"['pe', 'que', 'nos']",3,nos,2,que,p,False,s,False
+perde,"['per', 'de']",2,de,2,per,p,False,e,True
+perder,"['per', 'der']",2,der,1,der,p,False,r,False
+perdera,"['per', 'de', 'ra']",3,ra,2,de,p,False,a,True
+perdeu,"['per', 'deu']",2,deu,1,deu,p,False,u,True
+perdido,"['per', 'di', 'do']",3,do,2,di,p,False,o,True
+perdão,"['per', 'dão']",2,dão,1,dão,p,False,o,True
+perfeita,"['per', 'fei', 'ta']",3,ta,2,fei,p,False,a,True
+perfeitamente,"['per', 'fei', 'ta', 'men', 'te']",5,te,2,men,p,False,e,True
+perfeição,"['per', 'fei', 'ção']",3,ção,1,ção,p,False,o,True
+pergunta,"['per', 'gun', 'ta']",3,ta,2,gun,p,False,a,True
+perguntar,"['per', 'gun', 'tar']",3,tar,1,tar,p,False,r,False
+perguntava,"['per', 'gun', 'ta', 'va']",4,va,2,ta,p,False,a,True
+perguntei,"['per', 'gun', 'tei']",3,tei,1,tei,p,False,i,True
+perguntou,"['per', 'gun', 'tou']",3,tou,1,tou,p,False,u,True
+perigo,"['pe', 'ri', 'go']",3,go,2,ri,p,False,o,True
+pernas,"['per', 'nas']",2,nas,2,per,p,False,s,False
+personagens,"['per', 'so', 'na', 'gens']",4,gens,2,na,p,False,s,False
+pertence,"['per', 'ten', 'ce']",3,ce,2,ten,p,False,e,True
+perto,"['per', 'to']",2,to,2,per,p,False,o,True
+período,"['pe', 'rí', 'o', 'do']",4,do,3,rí,p,False,o,True
+pescoço,"['pes', 'co', 'ço']",3,ço,2,co,p,False,o,True
+peso,"['pe', 'so']",2,so,2,pe,p,False,o,True
+pessoa,"['pes', 'soa']",2,soa,1,soa,p,False,a,True
+pessoal,"['pes', 'soal']",2,soal,1,soal,p,False,l,False
+pessoas,"['pes', 'soas']",2,soas,1,soas,p,False,s,False
+petrópolis,"['pe', 'tró', 'po', 'lis']",4,lis,3,tró,p,False,s,False
+peça,"['pe', 'ça']",2,ça,2,pe,p,False,a,True
+peças,"['pe', 'ças']",2,ças,2,pe,p,False,s,False
+peço,"['pe', 'ço']",2,ço,2,pe,p,False,o,True
+piano,"['pi', 'a', 'no']",3,no,2,a,p,False,o,True
+piedade,"['pi', 'e', 'da', 'de']",4,de,2,da,p,False,e,True
+pinheiro,"['pi', 'nhei', 'ro']",3,ro,2,nhei,p,False,o,True
+pintura,"['pin', 'tu', 'ra']",3,ra,2,tu,p,False,a,True
+pior,"['pi', 'or']",2,or,1,or,p,False,r,False
+plano,"['pla', 'no']",2,no,2,pla,p,False,o,True
+pobre,"['po', 'bre']",2,bre,2,po,p,False,e,True
+pobres,"['po', 'bres']",2,bres,2,po,p,False,s,False
+pode,"['po', 'de']",2,de,2,po,p,False,e,True
+podem,"['po', 'dem']",2,dem,2,po,p,False,m,False
+podemos,"['po', 'de', 'mos']",3,mos,2,de,p,False,s,False
+podendo,"['po', 'den', 'do']",3,do,2,den,p,False,o,True
+poder,"['po', 'der']",2,der,1,der,p,False,r,False
+poderia,"['po', 'de', 'ri', 'a']",4,a,2,ri,p,False,a,True
+poderá,"['po', 'de', 'rá']",3,rá,1,rá,p,False,á,True
+podes,"['po', 'des']",2,des,2,po,p,False,s,False
+podia,"['po', 'di', 'a']",3,a,2,di,p,False,a,True
+podiam,"['po', 'di', 'am']",3,am,2,di,p,False,m,False
+poema,"['poe', 'ma']",2,ma,2,poe,p,False,a,True
+poesia,"['poe', 'si', 'a']",3,a,2,si,p,False,a,True
+poeta,"['poe', 'ta']",2,ta,2,poe,p,False,a,True
+poetas,"['poe', 'tas']",2,tas,2,poe,p,False,s,False
+pois,['pois'],1,pois,1,pois,p,False,s,False
+polícia,"['po', 'lí', 'ci', 'a']",4,a,3,lí,p,False,a,True
+política,"['po', 'lí', 'ti', 'ca']",4,ca,3,lí,p,False,a,True
+políticas,"['po', 'lí', 'ti', 'cas']",4,cas,3,lí,p,False,s,False
+político,"['po', 'lí', 'ti', 'co']",4,co,3,lí,p,False,o,True
+políticos,"['po', 'lí', 'ti', 'cos']",4,cos,3,lí,p,False,s,False
+ponta,"['pon', 'ta']",2,ta,2,pon,p,False,a,True
+ponto,"['pon', 'to']",2,to,2,pon,p,False,o,True
+pontos,"['pon', 'tos']",2,tos,2,pon,p,False,s,False
+popular,"['po', 'pu', 'lar']",3,lar,1,lar,p,False,r,False
+por,['por'],1,por,1,por,p,False,r,False
+porque,"['por', 'que']",2,que,1,que,p,False,e,True
+porta,"['por', 'ta']",2,ta,2,por,p,False,a,True
+portanto,"['por', 'tan', 'to']",3,to,2,tan,p,False,o,True
+portas,"['por', 'tas']",2,tas,2,por,p,False,s,False
+porto,"['por', 'to']",2,to,2,por,p,False,o,True
+porção,"['por', 'ção']",2,ção,1,ção,p,False,o,True
+porém,"['po', 'rém']",2,rém,1,rém,p,False,m,False
+posição,"['po', 'si', 'ção']",3,ção,1,ção,p,False,o,True
+possa,"['pos', 'sa']",2,sa,2,pos,p,False,a,True
+posso,"['pos', 'so']",2,so,2,pos,p,False,o,True
+possui,"['pos', 'sui']",2,sui,1,sui,p,False,i,True
+possuía,"['pos', 'su', 'í', 'a']",4,a,2,í,p,False,a,True
+possível,"['pos', 'sí', 'vel']",3,vel,2,sí,p,False,l,False
+posto,"['pos', 'to']",2,to,2,pos,p,False,o,True
+pouca,"['pou', 'ca']",2,ca,2,pou,p,False,a,True
+poucas,"['pou', 'cas']",2,cas,2,pou,p,False,s,False
+pouco,"['pou', 'co']",2,co,2,pou,p,False,o,True
+poucos,"['pou', 'cos']",2,cos,2,pou,p,False,s,False
+povo,"['po', 'vo']",2,vo,2,po,p,False,o,True
+povos,"['po', 'vos']",2,vos,2,po,p,False,s,False
+poética,"['po', 'é', 'ti', 'ca']",4,ca,3,é,p,False,a,True
+prata,"['pra', 'ta']",2,ta,2,pra,p,False,a,True
+prazer,"['pra', 'zer']",2,zer,1,zer,p,False,r,False
+prazo,"['pra', 'zo']",2,zo,2,pra,p,False,o,True
+praça,"['pra', 'ça']",2,ça,2,pra,p,False,a,True
+precisa,"['pre', 'ci', 'sa']",3,sa,2,ci,p,False,a,True
+precisava,"['pre', 'ci', 'sa', 'va']",4,va,2,sa,p,False,a,True
+preciso,"['pre', 'ci', 'so']",3,so,2,ci,p,False,o,True
+preferia,"['pre', 'fe', 'ri', 'a']",4,a,2,ri,p,False,a,True
+presente,"['pre', 'sen', 'te']",3,te,2,sen,p,False,e,True
+presença,"['pre', 'sen', 'ça']",3,ça,2,sen,p,False,a,True
+presidente,"['pre', 'si', 'den', 'te']",4,te,2,den,p,False,e,True
+preso,"['pre', 'so']",2,so,2,pre,p,False,o,True
+pressa,"['pres', 'sa']",2,sa,2,pres,p,False,a,True
+prestes,"['pres', 'tes']",2,tes,2,pres,p,False,s,False
+preta,"['pre', 'ta']",2,ta,2,pre,p,False,a,True
+pretendente,"['pre', 'ten', 'den', 'te']",4,te,2,den,p,False,e,True
+pretexto,"['pre', 'tex', 'to']",3,to,2,tex,p,False,o,True
+preto,"['pre', 'to']",2,to,2,pre,p,False,o,True
+preço,"['pre', 'ço']",2,ço,2,pre,p,False,o,True
+prima,"['pri', 'ma']",2,ma,2,pri,p,False,a,True
+primeira,"['pri', 'mei', 'ra']",3,ra,2,mei,p,False,a,True
+primeiras,"['pri', 'mei', 'ras']",3,ras,2,mei,p,False,s,False
+primeiro,"['pri', 'mei', 'ro']",3,ro,2,mei,p,False,o,True
+primeiros,"['pri', 'mei', 'ros']",3,ros,2,mei,p,False,s,False
+primo,"['pri', 'mo']",2,mo,2,pri,p,False,o,True
+principal,"['prin', 'ci', 'pal']",3,pal,1,pal,p,False,l,False
+principalmente,"['prin', 'ci', 'pal', 'men', 'te']",5,te,2,men,p,False,e,True
+princípio,"['prin', 'cí', 'pi', 'o']",4,o,3,cí,p,False,o,True
+princípios,"['prin', 'cí', 'pi', 'os']",4,os,3,cí,p,False,s,False
+problema,"['pro', 'ble', 'ma']",3,ma,2,ble,p,False,a,True
+procedimento,"['pro', 'ce', 'di', 'men', 'to']",5,to,2,men,p,False,o,True
+processo,"['pro', 'ces', 'so']",3,so,2,ces,p,False,o,True
+procura,"['pro', 'cu', 'ra']",3,ra,2,cu,p,False,a,True
+procurar,"['pro', 'cu', 'rar']",3,rar,1,rar,p,False,r,False
+procurou,"['pro', 'cu', 'rou']",3,rou,1,rou,p,False,u,True
+procópio,"['pro', 'có', 'pi', 'o']",4,o,3,có,p,False,o,True
+produziu,"['pro', 'du', 'zi', 'u']",4,u,2,zi,p,False,u,True
+profunda,"['pro', 'fun', 'da']",3,da,2,fun,p,False,a,True
+profundamente,"['pro', 'fun', 'da', 'men', 'te']",5,te,2,men,p,False,e,True
+profundo,"['pro', 'fun', 'do']",3,do,2,fun,p,False,o,True
+programa,"['pro', 'gra', 'ma']",3,ma,2,gra,p,False,a,True
+projeto,"['pro', 'je', 'to']",3,to,2,je,p,False,o,True
+promessa,"['pro', 'mes', 'sa']",3,sa,2,mes,p,False,a,True
+prometeu,"['pro', 'me', 'teu']",3,teu,1,teu,p,False,u,True
+pronto,"['pron', 'to']",2,to,2,pron,p,False,o,True
+proposta,"['pro', 'pos', 'ta']",3,ta,2,pos,p,False,a,True
+propriamente,"['pro', 'pri', 'a', 'men', 'te']",5,te,2,men,p,False,e,True
+propósito,"['pro', 'pó', 'si', 'to']",4,to,3,pó,p,False,o,True
+prosa,"['pro', 'sa']",2,sa,2,pro,p,False,a,True
+prova,"['pro', 'va']",2,va,2,pro,p,False,a,True
+provavelmente,"['pro', 'va', 'vel', 'men', 'te']",5,te,2,men,p,False,e,True
+provável,"['pro', 'vá', 'vel']",3,vel,2,vá,p,False,l,False
+província,"['pro', 'vín', 'ci', 'a']",4,a,3,vín,p,False,a,True
+prática,"['prá', 'ti', 'ca']",3,ca,3,prá,p,False,a,True
+própria,"['pró', 'pri', 'a']",3,a,3,pró,p,False,a,True
+próprias,"['pró', 'pri', 'as']",3,as,3,pró,p,False,s,False
+próprio,"['pró', 'pri', 'o']",3,o,3,pró,p,False,o,True
+próprios,"['pró', 'pri', 'os']",3,os,3,pró,p,False,s,False
+próxima,"['pró', 'xi', 'ma']",3,ma,3,pró,p,False,a,True
+próximo,"['pró', 'xi', 'mo']",3,mo,3,pró,p,False,o,True
+publicado,"['pu', 'bli', 'ca', 'do']",4,do,2,ca,p,False,o,True
+pude,"['pu', 'de']",2,de,2,pu,p,False,e,True
+pudesse,"['pu', 'des', 'se']",3,se,2,des,p,False,e,True
+punha,"['pu', 'nha']",2,nha,2,pu,p,False,a,True
+pura,"['pu', 'ra']",2,ra,2,pu,p,False,a,True
+puro,"['pu', 'ro']",2,ro,2,pu,p,False,o,True
+página,"['pá', 'gi', 'na']",3,na,3,pá,p,False,a,True
+páginas,"['pá', 'gi', 'nas']",3,nas,3,pá,p,False,s,False
+pálida,"['pá', 'li', 'da']",3,da,3,pá,p,False,a,True
+pálido,"['pá', 'li', 'do']",3,do,3,pá,p,False,o,True
+pátria,"['pá', 'tri', 'a']",3,a,3,pá,p,False,a,True
+pão,['pão'],1,pão,1,pão,p,False,o,True
+pé,['pé'],1,pé,1,pé,p,False,é,True
+pés,['pés'],1,pés,1,pés,p,False,s,False
+pôde,"['pô', 'de']",2,de,2,pô,p,False,e,True
+pôr,['pôr'],1,pôr,1,pôr,p,False,r,False
+pôs,['pôs'],1,pôs,1,pôs,p,False,s,False
+põe,['põe'],1,põe,1,põe,p,False,e,True
+pública,"['pú', 'bli', 'ca']",3,ca,3,pú,p,False,a,True
+público,"['pú', 'bli', 'co']",3,co,3,pú,p,False,o,True
+públicos,"['pú', 'bli', 'cos']",3,cos,3,pú,p,False,s,False
+quadro,"['qua', 'dro']",2,dro,2,qua,q,False,o,True
+quais,"['qua', 'is']",2,is,2,qua,q,False,s,False
+qual,['qual'],1,qual,1,qual,q,False,l,False
+qualidade,"['qua', 'li', 'da', 'de']",4,de,2,da,q,False,e,True
+qualidades,"['qua', 'li', 'da', 'des']",4,des,2,da,q,False,s,False
+qualquer,"['qual', 'quer']",2,quer,1,quer,q,False,r,False
+quando,"['quan', 'do']",2,do,2,quan,q,False,o,True
+quantas,"['quan', 'tas']",2,tas,2,quan,q,False,s,False
+quanto,"['quan', 'to']",2,to,2,quan,q,False,o,True
+quantos,"['quan', 'tos']",2,tos,2,quan,q,False,s,False
+quarenta,"['qua', 'ren', 'ta']",3,ta,2,ren,q,False,a,True
+quarto,"['quar', 'to']",2,to,2,quar,q,False,o,True
+quase,"['qua', 'se']",2,se,2,qua,q,False,e,True
+quatro,"['qua', 'tro']",2,tro,2,qua,q,False,o,True
+que,['que'],1,que,1,que,q,False,e,True
+queda,"['que', 'da']",2,da,2,que,q,False,a,True
+quem,['quem'],1,quem,1,quem,q,False,m,False
+quer,['quer'],1,quer,1,quer,q,False,r,False
+querem,"['que', 'rem']",2,rem,2,que,q,False,m,False
+querendo,"['que', 'ren', 'do']",3,do,2,ren,q,False,o,True
+querer,"['que', 'rer']",2,rer,1,rer,q,False,r,False
+queres,"['que', 'res']",2,res,2,que,q,False,s,False
+queria,"['que', 'ri', 'a']",3,a,2,ri,q,False,a,True
+quero,"['que', 'ro']",2,ro,2,que,q,False,o,True
+questão,"['ques', 'tão']",2,tão,1,tão,q,False,o,True
+quincas,"['quin', 'cas']",2,cas,2,quin,q,False,s,False
+quinhentos,"['qui', 'nhen', 'tos']",3,tos,2,nhen,q,False,s,False
+quinze,"['quin', 'ze']",2,ze,2,quin,q,False,e,True
+quis,['quis'],1,quis,1,quis,q,False,s,False
+quiser,"['qui', 'ser']",2,ser,1,ser,q,False,r,False
+quisera,"['qui', 'se', 'ra']",3,ra,2,se,q,False,a,True
+quisesse,"['qui', 'ses', 'se']",3,se,2,ses,q,False,e,True
+quê,"['qu', 'ê']",2,ê,1,ê,q,False,ê,True
+rainha,"['rai', 'nha']",2,nha,2,rai,r,False,a,True
+rapariga,"['ra', 'pa', 'ri', 'ga']",4,ga,2,ri,r,False,a,True
+rapaz,"['ra', 'paz']",2,paz,1,paz,r,False,z,False
+rapazes,"['ra', 'pa', 'zes']",3,zes,2,pa,r,False,s,False
+rapidamente,"['ra', 'pi', 'da', 'men', 'te']",5,te,2,men,r,False,e,True
+raquel,"['ra', 'quel']",2,quel,1,quel,r,False,l,False
+rara,"['ra', 'ra']",2,ra,2,ra,r,False,a,True
+raras,"['ra', 'ras']",2,ras,2,ra,r,False,s,False
+raro,"['ra', 'ro']",2,ro,2,ra,r,False,o,True
+razão,"['ra', 'zão']",2,zão,1,zão,r,False,o,True
+razões,"['ra', 'zões']",2,zões,1,zões,r,False,s,False
+raça,"['ra', 'ça']",2,ça,2,ra,r,False,a,True
+real,"['re', 'al']",2,al,1,al,r,False,l,False
+realidade,"['re', 'a', 'li', 'da', 'de']",5,de,2,da,r,False,e,True
+realmente,"['re', 'al', 'men', 'te']",4,te,2,men,r,False,e,True
+receber,"['re', 'ce', 'ber']",3,ber,1,ber,r,False,r,False
+recebeu,"['re', 'ce', 'beu']",3,beu,1,beu,r,False,u,True
+recebi,"['re', 'ce', 'bi']",3,bi,1,bi,r,False,i,True
+receio,"['re', 'cei', 'o']",3,o,2,cei,r,False,o,True
+recente,"['re', 'cen', 'te']",3,te,2,cen,r,False,e,True
+reconheceu,"['re', 'co', 'nhe', 'ceu']",4,ceu,1,ceu,r,False,u,True
+recuou,"['re', 'cuou']",2,cuou,1,cuou,r,False,u,True
+recurso,"['re', 'cur', 'so']",3,so,2,cur,r,False,o,True
+recusa,"['re', 'cu', 'sa']",3,sa,2,cu,r,False,a,True
+recusou,"['re', 'cu', 'sou']",3,sou,1,sou,r,False,u,True
+refletiu,"['re', 'fle', 'ti', 'u']",4,u,2,ti,r,False,u,True
+reflexão,"['re', 'fle', 'xão']",3,xão,1,xão,r,False,o,True
+reflexões,"['re', 'fle', 'xões']",3,xões,1,xões,r,False,s,False
+reforma,"['re', 'for', 'ma']",3,ma,2,for,r,False,a,True
+regra,"['re', 'gra']",2,gra,2,re,r,False,a,True
+rei,['rei'],1,rei,1,rei,r,False,i,True
+relação,"['re', 'la', 'ção']",3,ção,1,ção,r,False,o,True
+relações,"['re', 'la', 'ções']",3,ções,1,ções,r,False,s,False
+religião,"['re', 'li', 'gi', 'ão']",4,ão,1,ão,r,False,o,True
+relógio,"['re', 'ló', 'gi', 'o']",4,o,3,ló,r,False,o,True
+remorso,"['re', 'mor', 'so']",3,so,2,mor,r,False,o,True
+remédio,"['re', 'mé', 'di', 'o']",4,o,3,mé,r,False,o,True
+reparou,"['re', 'pa', 'rou']",3,rou,1,rou,r,False,u,True
+repente,"['re', 'pen', 'te']",3,te,2,pen,r,False,e,True
+repetir,"['re', 'pe', 'tir']",3,tir,1,tir,r,False,r,False
+repetiu,"['re', 'pe', 'ti', 'u']",4,u,2,ti,r,False,u,True
+replicou,"['re', 'pli', 'cou']",3,cou,1,cou,r,False,u,True
+representação,"['re', 'pre', 'sen', 'ta', 'ção']",5,ção,1,ção,r,False,o,True
+república,"['re', 'pú', 'bli', 'ca']",4,ca,3,pú,r,False,a,True
+resolução,"['re', 'so', 'lu', 'ção']",4,ção,1,ção,r,False,o,True
+resolveu,"['re', 'sol', 'veu']",3,veu,1,veu,r,False,u,True
+respeito,"['res', 'pei', 'to']",3,to,2,pei,r,False,o,True
+responder,"['res', 'pon', 'der']",3,der,1,der,r,False,r,False
+respondeu,"['res', 'pon', 'deu']",3,deu,1,deu,r,False,u,True
+respondi,"['res', 'pon', 'di']",3,di,1,di,r,False,i,True
+respondia,"['res', 'pon', 'di', 'a']",4,a,2,di,r,False,a,True
+resposta,"['res', 'pos', 'ta']",3,ta,2,pos,r,False,a,True
+resta,"['res', 'ta']",2,ta,2,res,r,False,a,True
+resto,"['res', 'to']",2,to,2,res,r,False,o,True
+resultado,"['re', 'sul', 'ta', 'do']",4,do,2,ta,r,False,o,True
+retrato,"['re', 'tra', 'to']",3,to,2,tra,r,False,o,True
+reunião,"['reu', 'ni', 'ão']",3,ão,1,ão,r,False,o,True
+revista,"['re', 'vis', 'ta']",3,ta,2,vis,r,False,a,True
+revolução,"['re', 'vo', 'lu', 'ção']",4,ção,1,ção,r,False,o,True
+ria,"['ri', 'a']",2,a,2,ri,r,False,a,True
+rica,"['ri', 'ca']",2,ca,2,ri,r,False,a,True
+rico,"['ri', 'co']",2,co,2,ri,r,False,o,True
+ridículo,"['ri', 'dí', 'cu', 'lo']",4,lo,3,dí,r,False,o,True
+rindo,"['rin', 'do']",2,do,2,rin,r,False,o,True
+rio,"['ri', 'o']",2,o,2,ri,r,False,o,True
+riqueza,"['ri', 'que', 'za']",3,za,2,que,r,False,a,True
+rir,['rir'],1,rir,1,rir,r,False,r,False
+riso,"['ri', 'so']",2,so,2,ri,r,False,o,True
+rita,"['ri', 'ta']",2,ta,2,ri,r,False,a,True
+rival,"['ri', 'val']",2,val,1,val,r,False,l,False
+rocha,"['ro', 'cha']",2,cha,2,ro,r,False,a,True
+rochedo,"['ro', 'che', 'do']",3,do,2,che,r,False,o,True
+roda,"['ro', 'da']",2,da,2,ro,r,False,a,True
+romance,"['ro', 'man', 'ce']",3,ce,2,man,r,False,e,True
+romualdo,"['ro', 'mual', 'do']",3,do,2,mual,r,False,o,True
+rosa,"['ro', 'sa']",2,sa,2,ro,r,False,a,True
+rosas,"['ro', 'sas']",2,sas,2,ro,r,False,s,False
+rosinha,"['ro', 'si', 'nha']",3,nha,2,si,r,False,a,True
+rosto,"['ros', 'to']",2,to,2,ros,r,False,o,True
+roupa,"['rou', 'pa']",2,pa,2,rou,r,False,a,True
+roça,"['ro', 'ça']",2,ça,2,ro,r,False,a,True
+rua,['rua'],1,rua,1,rua,r,False,a,True
+ruas,['ruas'],1,ruas,1,ruas,r,False,s,False
+rubião,"['ru', 'bi', 'ão']",3,ão,1,ão,r,False,o,True
+rumor,"['ru', 'mor']",2,mor,1,mor,r,False,r,False
+rápido,"['rá', 'pi', 'do']",3,do,3,rá,r,False,o,True
+réis,['réis'],1,réis,1,réis,r,False,s,False
+sabe,"['sa', 'be']",2,be,2,sa,s,False,e,True
+sabem,"['sa', 'bem']",2,bem,2,sa,s,False,m,False
+sabemos,"['sa', 'be', 'mos']",3,mos,2,be,s,False,s,False
+sabendo,"['sa', 'ben', 'do']",3,do,2,ben,s,False,o,True
+saber,"['sa', 'ber']",2,ber,1,ber,s,False,r,False
+sabes,"['sa', 'bes']",2,bes,2,sa,s,False,s,False
+sabia,"['sa', 'bi', 'a']",3,a,2,bi,s,False,a,True
+sacrifício,"['sa', 'cri', 'fí', 'ci', 'o']",5,o,3,fí,s,False,o,True
+sai,['sai'],1,sai,1,sai,s,False,i,True
+saindo,"['sa', 'in', 'do']",3,do,2,in,s,False,o,True
+sair,"['sa', 'ir']",2,ir,1,ir,s,False,r,False
+saiu,"['sa', 'iu']",2,iu,1,iu,s,False,u,True
+sala,"['sa', 'la']",2,la,2,sa,s,False,a,True
+salvar,"['sal', 'var']",2,var,1,var,s,False,r,False
+salvo,"['sal', 'vo']",2,vo,2,sal,s,False,o,True
+sangue,"['san', 'gue']",2,gue,2,san,s,False,e,True
+santa,"['san', 'ta']",2,ta,2,san,s,False,a,True
+santo,"['san', 'to']",2,to,2,san,s,False,o,True
+santos,"['san', 'tos']",2,tos,2,san,s,False,s,False
+sapatos,"['sa', 'pa', 'tos']",3,tos,2,pa,s,False,s,False
+sara,"['sa', 'ra']",2,ra,2,sa,s,False,a,True
+satisfação,"['sa', 'tis', 'fa', 'ção']",4,ção,1,ção,s,False,o,True
+saudade,"['sau', 'da', 'de']",3,de,2,da,s,False,e,True
+saudades,"['sau', 'da', 'des']",3,des,2,da,s,False,s,False
+saí,"['sa', 'í']",2,í,1,í,s,False,í,True
+saía,"['sa', 'í', 'a']",3,a,2,í,s,False,a,True
+saída,"['sa', 'í', 'da']",3,da,2,í,s,False,a,True
+saíram,"['sa', 'í', 'ram']",3,ram,2,í,s,False,m,False
+saúde,"['sa', 'ú', 'de']",3,de,2,ú,s,False,e,True
+se,['se'],1,se,1,se,s,False,e,True
+seabra,"['se', 'a', 'bra']",3,bra,2,a,s,False,a,True
+segredo,"['se', 'gre', 'do']",3,do,2,gre,s,False,o,True
+seguinte,"['se', 'guin', 'te']",3,te,2,guin,s,False,e,True
+seguir,"['se', 'guir']",2,guir,1,guir,s,False,r,False
+seguiu,"['se', 'gui', 'u']",3,u,2,gui,s,False,u,True
+segunda,"['se', 'gun', 'da']",3,da,2,gun,s,False,a,True
+segundo,"['se', 'gun', 'do']",3,do,2,gun,s,False,o,True
+segundos,"['se', 'gun', 'dos']",3,dos,2,gun,s,False,s,False
+sei,['sei'],1,sei,1,sei,s,False,i,True
+seio,"['sei', 'o']",2,o,2,sei,s,False,o,True
+seis,['seis'],1,seis,1,seis,s,False,s,False
+seja,"['se', 'ja']",2,ja,2,se,s,False,a,True
+sejam,"['se', 'jam']",2,jam,2,se,s,False,m,False
+sem,['sem'],1,sem,1,sem,s,False,m,False
+semana,"['se', 'ma', 'na']",3,na,2,ma,s,False,a,True
+semanas,"['se', 'ma', 'nas']",3,nas,2,ma,s,False,s,False
+semelhante,"['se', 'me', 'lhan', 'te']",4,te,2,lhan,s,False,e,True
+seminário,"['se', 'mi', 'ná', 'ri', 'o']",5,o,3,ná,s,False,o,True
+sempre,"['sem', 'pre']",2,pre,2,sem,s,False,e,True
+senado,"['se', 'na', 'do']",3,do,2,na,s,False,o,True
+senador,"['se', 'na', 'dor']",3,dor,1,dor,s,False,r,False
+sendo,"['sen', 'do']",2,do,2,sen,s,False,o,True
+senhor,"['se', 'nhor']",2,nhor,1,nhor,s,False,r,False
+senhora,"['se', 'nho', 'ra']",3,ra,2,nho,s,False,a,True
+senhoras,"['se', 'nho', 'ras']",3,ras,2,nho,s,False,s,False
+senhores,"['se', 'nho', 'res']",3,res,2,nho,s,False,s,False
+sensação,"['sen', 'sa', 'ção']",3,ção,1,ção,s,False,o,True
+sentado,"['sen', 'ta', 'do']",3,do,2,ta,s,False,o,True
+senti,"['sen', 'ti']",2,ti,1,ti,s,False,i,True
+sentia,"['sen', 'ti', 'a']",3,a,2,ti,s,False,a,True
+sentido,"['sen', 'ti', 'do']",3,do,2,ti,s,False,o,True
+sentimento,"['sen', 'ti', 'men', 'to']",4,to,2,men,s,False,o,True
+sentimentos,"['sen', 'ti', 'men', 'tos']",4,tos,2,men,s,False,s,False
+sentir,"['sen', 'tir']",2,tir,1,tir,s,False,r,False
+sentiu,"['sen', 'ti', 'u']",3,u,2,ti,s,False,u,True
+senão,"['se', 'não']",2,não,1,não,s,False,o,True
+separação,"['se', 'pa', 'ra', 'ção']",4,ção,1,ção,s,False,o,True
+sepultura,"['se', 'pul', 'tu', 'ra']",4,ra,2,tu,s,False,a,True
+sequer,"['se', 'quer']",2,quer,1,quer,s,False,r,False
+ser,['ser'],1,ser,1,ser,s,False,r,False
+serei,"['se', 'rei']",2,rei,1,rei,s,False,i,True
+serem,"['se', 'rem']",2,rem,2,se,s,False,m,False
+seria,"['se', 'ri', 'a']",3,a,2,ri,s,False,a,True
+seriam,"['se', 'ri', 'am']",3,am,2,ri,s,False,m,False
+serve,"['ser', 've']",2,ve,2,ser,s,False,e,True
+servir,"['ser', 'vir']",2,vir,1,vir,s,False,r,False
+serviço,"['ser', 'vi', 'ço']",3,ço,2,vi,s,False,o,True
+será,"['se', 'rá']",2,rá,1,rá,s,False,á,True
+serão,"['se', 'rão']",2,rão,1,rão,s,False,o,True
+sessão,"['ses', 'são']",2,são,1,são,s,False,o,True
+sete,"['se', 'te']",2,te,2,se,s,False,e,True
+setembro,"['se', 'tem', 'bro']",3,bro,2,tem,s,False,o,True
+seu,['seu'],1,seu,1,seu,s,False,u,True
+seus,['seus'],1,seus,1,seus,s,False,s,False
+si,['si'],1,si,1,si,s,False,i,True
+sido,"['si', 'do']",2,do,2,si,s,False,o,True
+sikes,['sikes'],1,sikes,1,sikes,s,False,s,False
+silveira,"['sil', 'vei', 'ra']",3,ra,2,vei,s,False,a,True
+silvestre,"['sil', 'ves', 'tre']",3,tre,2,ves,s,False,e,True
+silêncio,"['si', 'lên', 'ci', 'o']",4,o,3,lên,s,False,o,True
+sim,['sim'],1,sim,1,sim,s,False,m,False
+simpatia,"['sim', 'pa', 'ti', 'a']",4,a,2,ti,s,False,a,True
+simples,"['sim', 'ples']",2,ples,2,sim,s,False,s,False
+simplesmente,"['sim', 'ples', 'men', 'te']",4,te,2,men,s,False,e,True
+simão,"['si', 'mão']",2,mão,1,mão,s,False,o,True
+sinais,"['si', 'na', 'is']",3,is,2,na,s,False,s,False
+sinal,"['si', 'nal']",2,nal,1,nal,s,False,l,False
+sincera,"['sin', 'ce', 'ra']",3,ra,2,ce,s,False,a,True
+sinceridade,"['sin', 'ce', 'ri', 'da', 'de']",5,de,2,da,s,False,e,True
+sincero,"['sin', 'ce', 'ro']",3,ro,2,ce,s,False,o,True
+singular,"['sin', 'gu', 'lar']",3,lar,1,lar,s,False,r,False
+sinto,"['sin', 'to']",2,to,2,sin,s,False,o,True
+sistema,"['sis', 'te', 'ma']",3,ma,2,te,s,False,a,True
+situação,"['si', 'tua', 'ção']",3,ção,1,ção,s,False,o,True
+soares,"['soa', 'res']",2,res,2,soa,s,False,s,False
+sob,['sob'],1,sob,1,sob,s,False,b,False
+sobre,"['so', 'bre']",2,bre,2,so,s,False,e,True
+sobretudo,"['so', 'bre', 'tu', 'do']",4,do,2,tu,s,False,o,True
+sobrinha,"['so', 'bri', 'nha']",3,nha,2,bri,s,False,a,True
+sobrinho,"['so', 'bri', 'nho']",3,nho,2,bri,s,False,o,True
+social,"['so', 'ci', 'al']",3,al,1,al,s,False,l,False
+sociedade,"['so', 'ci', 'e', 'da', 'de']",5,de,2,da,s,False,e,True
+sofia,"['so', 'fi', 'a']",3,a,2,fi,s,False,a,True
+sofá,"['so', 'fá']",2,fá,1,fá,s,False,á,True
+sol,['sol'],1,sol,1,sol,s,False,l,False
+solidão,"['so', 'li', 'dão']",3,dão,1,dão,s,False,o,True
+solução,"['so', 'lu', 'ção']",3,ção,1,ção,s,False,o,True
+som,['som'],1,som,1,som,s,False,m,False
+soma,"['so', 'ma']",2,ma,2,so,s,False,a,True
+sombra,"['som', 'bra']",2,bra,2,som,s,False,a,True
+sombras,"['som', 'bras']",2,bras,2,som,s,False,s,False
+somente,"['so', 'men', 'te']",3,te,2,men,s,False,e,True
+somos,"['so', 'mos']",2,mos,2,so,s,False,s,False
+sonho,"['so', 'nho']",2,nho,2,so,s,False,o,True
+sonhos,"['so', 'nhos']",2,nhos,2,so,s,False,s,False
+sono,"['so', 'no']",2,no,2,so,s,False,o,True
+sorrindo,"['sor', 'rin', 'do']",3,do,2,rin,s,False,o,True
+sorrir,"['sor', 'rir']",2,rir,1,rir,s,False,r,False
+sorriso,"['sor', 'ri', 'so']",3,so,2,ri,s,False,o,True
+sorriu,"['sor', 'ri', 'u']",3,u,2,ri,s,False,u,True
+sorte,"['sor', 'te']",2,te,2,sor,s,False,e,True
+sou,['sou'],1,sou,1,sou,s,False,u,True
+soube,"['sou', 'be']",2,be,2,sou,s,False,e,True
+soubesse,"['sou', 'bes', 'se']",3,se,2,bes,s,False,e,True
+subir,"['su', 'bir']",2,bir,1,bir,s,False,r,False
+subiu,"['su', 'bi', 'u']",3,u,2,bi,s,False,u,True
+sublime,"['su', 'bli', 'me']",3,me,2,bli,s,False,e,True
+sucedeu,"['su', 'ce', 'deu']",3,deu,1,deu,s,False,u,True
+sucessos,"['su', 'ces', 'sos']",3,sos,2,ces,s,False,s,False
+sujeito,"['su', 'jei', 'to']",3,to,2,jei,s,False,o,True
+sul,['sul'],1,sul,1,sul,s,False,l,False
+suma,"['su', 'ma']",2,ma,2,su,s,False,a,True
+superior,"['su', 'pe', 'ri', 'or']",4,or,1,or,s,False,r,False
+supor,"['su', 'por']",2,por,1,por,s,False,r,False
+supunha,"['su', 'pu', 'nha']",3,nha,2,pu,s,False,a,True
+surpresa,"['sur', 'pre', 'sa']",3,sa,2,pre,s,False,a,True
+suspeita,"['sus', 'pei', 'ta']",3,ta,2,pei,s,False,a,True
+suspiro,"['sus', 'pi', 'ro']",3,ro,2,pi,s,False,o,True
+suspirou,"['sus', 'pi', 'rou']",3,rou,1,rou,s,False,u,True
+sábado,"['sá', 'ba', 'do']",3,do,3,sá,s,False,o,True
+são,['são'],1,são,1,são,s,False,o,True
+século,"['sé', 'cu', 'lo']",3,lo,3,sé,s,False,o,True
+séculos,"['sé', 'cu', 'los']",3,los,3,sé,s,False,s,False
+séria,"['sé', 'ri', 'a']",3,a,3,sé,s,False,a,True
+sério,"['sé', 'ri', 'o']",3,o,3,sé,s,False,o,True
+só,['só'],1,só,1,só,s,False,ó,True
+sós,['sós'],1,sós,1,sós,s,False,s,False
+tais,"['ta', 'is']",2,is,2,ta,t,False,s,False
+tal,['tal'],1,tal,1,tal,t,False,l,False
+talento,"['ta', 'len', 'to']",3,to,2,len,t,False,o,True
+talentos,"['ta', 'len', 'tos']",3,tos,2,len,t,False,s,False
+talvez,"['tal', 'vez']",2,vez,1,vez,t,False,z,False
+tamanha,"['ta', 'ma', 'nha']",3,nha,2,ma,t,False,a,True
+tamanho,"['ta', 'ma', 'nho']",3,nho,2,ma,t,False,o,True
+também,"['tam', 'bém']",2,bém,1,bém,t,False,m,False
+tanta,"['tan', 'ta']",2,ta,2,tan,t,False,a,True
+tantas,"['tan', 'tas']",2,tas,2,tan,t,False,s,False
+tanto,"['tan', 'to']",2,to,2,tan,t,False,o,True
+tantos,"['tan', 'tos']",2,tos,2,tan,t,False,s,False
+tarde,"['tar', 'de']",2,de,2,tar,t,False,e,True
+tardou,"['tar', 'dou']",2,dou,1,dou,t,False,u,True
+te,['te'],1,te,1,te,t,False,e,True
+teatro,"['te', 'a', 'tro']",3,tro,2,a,t,False,o,True
+teatros,"['te', 'a', 'tros']",3,tros,2,a,t,False,s,False
+tem,['tem'],1,tem,1,tem,t,False,m,False
+temos,"['te', 'mos']",2,mos,2,te,t,False,s,False
+tempestade,"['tem', 'pes', 'ta', 'de']",4,de,2,ta,t,False,e,True
+tempo,"['tem', 'po']",2,po,2,tem,t,False,o,True
+tempos,"['tem', 'pos']",2,pos,2,tem,t,False,s,False
+tendo,"['ten', 'do']",2,do,2,ten,t,False,o,True
+tenha,"['te', 'nha']",2,nha,2,te,t,False,a,True
+tenho,"['te', 'nho']",2,nho,2,te,t,False,o,True
+tens,['tens'],1,tens,1,tens,t,False,s,False
+teoria,"['te', 'o', 'ri', 'a']",4,a,2,ri,t,False,a,True
+ter,['ter'],1,ter,1,ter,t,False,r,False
+terceira,"['ter', 'cei', 'ra']",3,ra,2,cei,t,False,a,True
+terceiro,"['ter', 'cei', 'ro']",3,ro,2,cei,t,False,o,True
+teresa,"['te', 're', 'sa']",3,sa,2,re,t,False,a,True
+teria,"['te', 'ri', 'a']",3,a,2,ri,t,False,a,True
+termo,"['ter', 'mo']",2,mo,2,ter,t,False,o,True
+termos,"['ter', 'mos']",2,mos,2,ter,t,False,s,False
+ternura,"['ter', 'nu', 'ra']",3,ra,2,nu,t,False,a,True
+terra,"['ter', 'ra']",2,ra,2,ter,t,False,a,True
+terror,"['ter', 'ror']",2,ror,1,ror,t,False,r,False
+terrível,"['ter', 'rí', 'vel']",3,vel,2,rí,t,False,l,False
+terá,"['te', 'rá']",2,rá,1,rá,t,False,á,True
+testa,"['tes', 'ta']",2,ta,2,tes,t,False,a,True
+testamento,"['tes', 'ta', 'men', 'to']",4,to,2,men,t,False,o,True
+teto,"['te', 'to']",2,to,2,te,t,False,o,True
+teu,['teu'],1,teu,1,teu,t,False,u,True
+teus,['teus'],1,teus,1,teus,t,False,s,False
+teve,"['te', 've']",2,ve,2,te,t,False,e,True
+texto,"['tex', 'to']",2,to,2,tex,t,False,o,True
+teófilo,"['te', 'ó', 'fi', 'lo']",4,lo,3,ó,t,False,o,True
+ti,['ti'],1,ti,1,ti,t,False,i,True
+tia,"['ti', 'a']",2,a,2,ti,t,False,a,True
+tibério,"['ti', 'bé', 'ri', 'o']",4,o,3,bé,t,False,o,True
+tijuca,"['ti', 'ju', 'ca']",3,ca,2,ju,t,False,a,True
+tinha,"['ti', 'nha']",2,nha,2,ti,t,False,a,True
+tinham,"['ti', 'nham']",2,nham,2,ti,t,False,m,False
+tio,"['ti', 'o']",2,o,2,ti,t,False,o,True
+tirar,"['ti', 'rar']",2,rar,1,rar,t,False,r,False
+tirou,"['ti', 'rou']",2,rou,1,rou,t,False,u,True
+tito,"['ti', 'to']",2,to,2,ti,t,False,o,True
+tive,"['ti', 've']",2,ve,2,ti,t,False,e,True
+tiver,"['ti', 'ver']",2,ver,1,ver,t,False,r,False
+tivera,"['ti', 've', 'ra']",3,ra,2,ve,t,False,a,True
+tiveram,"['ti', 've', 'ram']",3,ram,2,ve,t,False,m,False
+tivesse,"['ti', 'ves', 'se']",3,se,2,ves,t,False,e,True
+tobias,"['to', 'bi', 'as']",3,as,2,bi,t,False,s,False
+tocar,"['to', 'car']",2,car,1,car,t,False,r,False
+toda,"['to', 'da']",2,da,2,to,t,False,a,True
+todas,"['to', 'das']",2,das,2,to,t,False,s,False
+todavia,"['to', 'da', 'vi', 'a']",4,a,2,vi,t,False,a,True
+todo,"['to', 'do']",2,do,2,to,t,False,o,True
+todos,"['to', 'dos']",2,dos,2,to,t,False,s,False
+tom,['tom'],1,tom,1,tom,t,False,m,False
+toma,"['to', 'ma']",2,ma,2,to,t,False,a,True
+tomar,"['to', 'mar']",2,mar,1,mar,t,False,r,False
+tomou,"['to', 'mou']",2,mou,1,mou,t,False,u,True
+tomás,"['to', 'más']",2,más,1,más,t,False,s,False
+tornar,"['tor', 'nar']",2,nar,1,nar,t,False,r,False
+tornava,"['tor', 'na', 'va']",3,va,2,na,t,False,a,True
+tornou,"['tor', 'nou']",2,nou,1,nou,t,False,u,True
+trabalhar,"['tra', 'ba', 'lhar']",3,lhar,1,lhar,t,False,r,False
+trabalho,"['tra', 'ba', 'lho']",3,lho,2,ba,t,False,o,True
+trabalhos,"['tra', 'ba', 'lhos']",3,lhos,2,ba,t,False,s,False
+tranqüilo,"['tran', 'qüi', 'lo']",3,lo,2,qüi,t,False,o,True
+trata,"['tra', 'ta']",2,ta,2,tra,t,False,a,True
+tratar,"['tra', 'tar']",2,tar,1,tar,t,False,r,False
+tratava,"['tra', 'ta', 'va']",3,va,2,ta,t,False,a,True
+tratou,"['tra', 'tou']",2,tou,1,tou,t,False,u,True
+traz,['traz'],1,traz,1,traz,t,False,z,False
+trazer,"['tra', 'zer']",2,zer,1,zer,t,False,r,False
+trazia,"['tra', 'zi', 'a']",3,a,2,zi,t,False,a,True
+trecho,"['tre', 'cho']",2,cho,2,tre,t,False,o,True
+trinta,"['trin', 'ta']",2,ta,2,trin,t,False,a,True
+triste,"['tris', 'te']",2,te,2,tris,t,False,e,True
+tristes,"['tris', 'tes']",2,tes,2,tris,t,False,s,False
+tristeza,"['tris', 'te', 'za']",3,za,2,te,t,False,a,True
+tristão,"['tris', 'tão']",2,tão,1,tão,t,False,o,True
+troca,"['tro', 'ca']",2,ca,2,tro,t,False,a,True
+trouxe,"['trou', 'xe']",2,xe,2,trou,t,False,e,True
+trás,['trás'],1,trás,1,trás,t,False,s,False
+trêmula,"['trê', 'mu', 'la']",3,la,3,trê,t,False,a,True
+três,['três'],1,três,1,três,t,False,s,False
+tu,['tu'],1,tu,1,tu,t,False,u,True
+tua,['tua'],1,tua,1,tua,t,False,a,True
+tuas,['tuas'],1,tuas,1,tuas,t,False,s,False
+tudo,"['tu', 'do']",2,do,2,tu,t,False,o,True
+tão,['tão'],1,tão,1,tão,t,False,o,True
+têm,['têm'],1,têm,1,têm,t,False,m,False
+título,"['tí', 'tu', 'lo']",3,lo,3,tí,t,False,o,True
+um,['um'],1,um,1,um,u,True,m,False
+uma,"['u', 'ma']",2,ma,2,u,u,True,a,True
+umas,"['u', 'mas']",2,mas,2,u,u,True,s,False
+unicamente,"['u', 'ni', 'ca', 'men', 'te']",5,te,2,men,u,True,e,True
+universal,"['u', 'ni', 'ver', 'sal']",4,sal,1,sal,u,True,l,False
+união,"['u', 'ni', 'ão']",3,ão,1,ão,u,True,o,True
+uns,['uns'],1,uns,1,uns,u,True,s,False
+uso,"['u', 'so']",2,so,2,u,u,True,o,True
+vaga,"['va', 'ga']",2,ga,2,va,v,False,a,True
+vagas,"['va', 'gas']",2,gas,2,va,v,False,s,False
+vai,['vai'],1,vai,1,vai,v,False,i,True
+vaidade,"['vai', 'da', 'de']",3,de,2,da,v,False,e,True
+vais,"['va', 'is']",2,is,2,va,v,False,s,False
+valadares,"['va', 'la', 'da', 'res']",4,res,2,da,v,False,s,False
+vale,"['va', 'le']",2,le,2,va,v,False,e,True
+valem,"['va', 'lem']",2,lem,2,va,v,False,m,False
+valentim,"['va', 'len', 'tim']",3,tim,1,tim,v,False,m,False
+valença,"['va', 'len', 'ça']",3,ça,2,len,v,False,a,True
+valia,"['va', 'li', 'a']",3,a,2,li,v,False,a,True
+valor,"['va', 'lor']",2,lor,1,lor,v,False,r,False
+valéria,"['va', 'lé', 'ri', 'a']",4,a,3,lé,v,False,a,True
+valério,"['va', 'lé', 'ri', 'o']",4,o,3,lé,v,False,o,True
+vamos,"['va', 'mos']",2,mos,2,va,v,False,s,False
+vantagem,"['van', 'ta', 'gem']",3,gem,2,ta,v,False,m,False
+vapor,"['va', 'por']",2,por,1,por,v,False,r,False
+vasconcelos,"['vas', 'con', 'ce', 'los']",4,los,2,ce,v,False,s,False
+vasto,"['vas', 'to']",2,to,2,vas,v,False,o,True
+vede,"['ve', 'de']",2,de,2,ve,v,False,e,True
+veio,"['vei', 'o']",2,o,2,vei,v,False,o,True
+veja,"['ve', 'ja']",2,ja,2,ve,v,False,a,True
+vejo,"['ve', 'jo']",2,jo,2,ve,v,False,o,True
+vela,"['ve', 'la']",2,la,2,ve,v,False,a,True
+velha,"['ve', 'lha']",2,lha,2,ve,v,False,a,True
+velhas,"['ve', 'lhas']",2,lhas,2,ve,v,False,s,False
+velhice,"['ve', 'lhi', 'ce']",3,ce,2,lhi,v,False,e,True
+velho,"['ve', 'lho']",2,lho,2,ve,v,False,o,True
+velhos,"['ve', 'lhos']",2,lhos,2,ve,v,False,s,False
+vem,['vem'],1,vem,1,vem,v,False,m,False
+vencer,"['ven', 'cer']",2,cer,1,cer,v,False,r,False
+vendo,"['ven', 'do']",2,do,2,ven,v,False,o,True
+venha,"['ve', 'nha']",2,nha,2,ve,v,False,a,True
+venho,"['ve', 'nho']",2,nho,2,ve,v,False,o,True
+vento,"['ven', 'to']",2,to,2,ven,v,False,o,True
+ventos,"['ven', 'tos']",2,tos,2,ven,v,False,s,False
+ventura,"['ven', 'tu', 'ra']",3,ra,2,tu,v,False,a,True
+venâncio,"['ve', 'nân', 'ci', 'o']",4,o,3,nân,v,False,o,True
+ver,['ver'],1,ver,1,ver,v,False,r,False
+verdade,"['ver', 'da', 'de']",3,de,2,da,v,False,e,True
+verdadeira,"['ver', 'da', 'dei', 'ra']",4,ra,2,dei,v,False,a,True
+verdadeiramente,"['ver', 'da', 'dei', 'ra', 'men', 'te']",6,te,2,men,v,False,e,True
+verdadeiro,"['ver', 'da', 'dei', 'ro']",4,ro,2,dei,v,False,o,True
+verde,"['ver', 'de']",2,de,2,ver,v,False,e,True
+verdes,"['ver', 'des']",2,des,2,ver,v,False,s,False
+vergonha,"['ver', 'go', 'nha']",3,nha,2,go,v,False,a,True
+verso,"['ver', 'so']",2,so,2,ver,v,False,o,True
+versos,"['ver', 'sos']",2,sos,2,ver,v,False,s,False
+verão,"['ve', 'rão']",2,rão,1,rão,v,False,o,True
+vestido,"['ves', 'ti', 'do']",3,do,2,ti,v,False,o,True
+vez,['vez'],1,vez,1,vez,v,False,z,False
+vezes,"['ve', 'zes']",2,zes,2,ve,v,False,s,False
+vi,['vi'],1,vi,1,vi,v,False,i,True
+via,"['vi', 'a']",2,a,2,vi,v,False,a,True
+viagem,"['vi', 'a', 'gem']",3,gem,2,a,v,False,m,False
+vicente,"['vi', 'cen', 'te']",3,te,2,cen,v,False,e,True
+vida,"['vi', 'da']",2,da,2,vi,v,False,a,True
+vieram,"['vi', 'e', 'ram']",3,ram,2,e,v,False,m,False
+viesse,"['vi', 'es', 'se']",3,se,2,es,v,False,e,True
+vilela,"['vi', 'le', 'la']",3,la,2,le,v,False,a,True
+vim,['vim'],1,vim,1,vim,v,False,m,False
+vindo,"['vin', 'do']",2,do,2,vin,v,False,o,True
+vinha,"['vi', 'nha']",2,nha,2,vi,v,False,a,True
+vinham,"['vi', 'nham']",2,nham,2,vi,v,False,m,False
+vinho,"['vi', 'nho']",2,nho,2,vi,v,False,o,True
+vinte,"['vin', 'te']",2,te,2,vin,v,False,e,True
+vir,['vir'],1,vir,1,vir,v,False,r,False
+vira,"['vi', 'ra']",2,ra,2,vi,v,False,a,True
+viram,"['vi', 'ram']",2,ram,2,vi,v,False,m,False
+virgem,"['vir', 'gem']",2,gem,2,vir,v,False,m,False
+virgília,"['vir', 'gí', 'li', 'a']",4,a,3,gí,v,False,a,True
+viria,"['vi', 'ri', 'a']",3,a,2,ri,v,False,a,True
+virtude,"['vir', 'tu', 'de']",3,de,2,tu,v,False,e,True
+virtudes,"['vir', 'tu', 'des']",3,des,2,tu,v,False,s,False
+virá,"['vi', 'rá']",2,rá,1,rá,v,False,á,True
+visita,"['vi', 'si', 'ta']",3,ta,2,si,v,False,a,True
+visitas,"['vi', 'si', 'tas']",3,tas,2,si,v,False,s,False
+visse,"['vis', 'se']",2,se,2,vis,v,False,e,True
+vista,"['vis', 'ta']",2,ta,2,vis,v,False,a,True
+visto,"['vis', 'to']",2,to,2,vis,v,False,o,True
+visão,"['vi', 'são']",2,são,1,são,v,False,o,True
+vitória,"['vi', 'tó', 'ri', 'a']",4,a,3,tó,v,False,a,True
+viu,"['vi', 'u']",2,u,2,vi,v,False,u,True
+viva,"['vi', 'va']",2,va,2,vi,v,False,a,True
+vivas,"['vi', 'vas']",2,vas,2,vi,v,False,s,False
+vive,"['vi', 've']",2,ve,2,vi,v,False,e,True
+viver,"['vi', 'ver']",2,ver,1,ver,v,False,r,False
+vivo,"['vi', 'vo']",2,vo,2,vi,v,False,o,True
+vivos,"['vi', 'vos']",2,vos,2,vi,v,False,s,False
+vizinhança,"['vi', 'zi', 'nhan', 'ça']",4,ça,2,nhan,v,False,a,True
+vizinho,"['vi', 'zi', 'nho']",3,nho,2,zi,v,False,o,True
+viúva,"['vi', 'ú', 'va']",3,va,2,ú,v,False,a,True
+vocação,"['vo', 'ca', 'ção']",3,ção,1,ção,v,False,o,True
+você,"['vo', 'cê']",2,cê,1,cê,v,False,ê,True
+vocês,"['vo', 'cês']",2,cês,1,cês,v,False,s,False
+vol,['vol'],1,vol,1,vol,v,False,l,False
+volta,"['vol', 'ta']",2,ta,2,vol,v,False,a,True
+voltando,"['vol', 'tan', 'do']",3,do,2,tan,v,False,o,True
+voltar,"['vol', 'tar']",2,tar,1,tar,v,False,r,False
+voltava,"['vol', 'ta', 'va']",3,va,2,ta,v,False,a,True
+voltou,"['vol', 'tou']",2,tou,1,tou,v,False,u,True
+volume,"['vo', 'lu', 'me']",3,me,2,lu,v,False,e,True
+vontade,"['von', 'ta', 'de']",3,de,2,ta,v,False,e,True
+vos,['vos'],1,vos,1,vos,v,False,s,False
+vossa,"['vos', 'sa']",2,sa,2,vos,v,False,a,True
+voto,"['vo', 'to']",2,to,2,vo,v,False,o,True
+votos,"['vo', 'tos']",2,tos,2,vo,v,False,s,False
+vou,['vou'],1,vou,1,vou,v,False,u,True
+voz,['voz'],1,voz,1,voz,v,False,z,False
+vozes,"['vo', 'zes']",2,zes,2,vo,v,False,s,False
+vulgar,"['vul', 'gar']",2,gar,1,gar,v,False,r,False
+vulto,"['vul', 'to']",2,to,2,vul,v,False,o,True
+vá,['vá'],1,vá,1,vá,v,False,á,True
+vários,"['vá', 'ri', 'os']",3,os,3,vá,v,False,s,False
+vão,['vão'],1,vão,1,vão,v,False,o,True
+véspera,"['vés', 'pe', 'ra']",3,ra,3,vés,v,False,a,True
+véu,['véu'],1,véu,1,véu,v,False,u,True
+vê,['vê'],1,vê,1,vê,v,False,ê,True
+vênus,"['vê', 'nus']",2,nus,2,vê,v,False,s,False
+vês,['vês'],1,vês,1,vês,v,False,s,False
+vítima,"['ví', 'ti', 'ma']",3,ma,3,ví,v,False,a,True
+vós,['vós'],1,vós,1,vós,v,False,s,False
+xavier,"['xa', 'vi', 'er']",3,er,1,er,x,False,r,False
+às,['às'],1,às,1,às,à,True,s,False
+água,"['á', 'gua']",2,gua,2,á,á,True,a,True
+águas,"['á', 'guas']",2,guas,2,á,á,True,s,False
+ângela,"['ân', 'ge', 'la']",3,la,3,ân,â,True,a,True
+ânimo,"['â', 'ni', 'mo']",3,mo,3,â,â,True,o,True
+época,"['é', 'po', 'ca']",3,ca,3,é,é,True,a,True
+és,['és'],1,és,1,és,é,True,s,False
+íntima,"['ín', 'ti', 'ma']",3,ma,3,ín,í,True,a,True
+ódio,"['ó', 'di', 'o']",3,o,3,ó,ó,True,o,True
+ópera,"['ó', 'pe', 'ra']",3,ra,3,ó,ó,True,a,True
+última,"['úl', 'ti', 'ma']",3,ma,3,úl,ú,True,a,True
+últimas,"['úl', 'ti', 'mas']",3,mas,3,úl,ú,True,s,False
+último,"['úl', 'ti', 'mo']",3,mo,3,úl,ú,True,o,True
+últimos,"['úl', 'ti', 'mos']",3,mos,3,úl,ú,True,s,False
+única,"['ú', 'ni', 'ca']",3,ca,3,ú,ú,True,a,True
+único,"['ú', 'ni', 'co']",3,co,3,ú,ú,True,o,True
+úrsula,"['úr', 'su', 'la']",3,la,3,úr,ú,True,a,True
+útil,"['ú', 'til']",2,til,2,ú,ú,True,l,False
